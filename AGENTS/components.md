@@ -1,8 +1,9 @@
 ## Components
 
-- accordion-nav = AccordionNav = a navigation container for collapsible accordion information
-- accordion-nav-list = AccordionNavList = an ordered list of accordion nav list item components
-- accordion-nav-list-item = AccordionNavListItem = one accordion nav list item component
+- accordion-nav = AccordionNav = an accordion navigation area for collapsible accordion information
+- accordion-list = AccordionList = an accordion ordered list of list item components
+- accordion-list-item = AccordionListItem = an accordion list item component
+- accordion-link = AccordionLink = an accordion link
 - action-link = ActionLink = a hyperlink styled as an action trigger
 - ai-label = AiLabel = an indicator of AI instances that is a pathway to AI explainability
 - alert-dialog = AlertDialog = a modal dialog for urgent messages requiring user acknowledgment
@@ -17,8 +18,9 @@
 - banner = Banner = a prominent message bar across the top of a page
 - beach-ball = BeachBall = a decorative animated beach ball element
 - breadcrumb-nav = BreadcrumbNav = a navigation container for breadcrumb trail links
-- breadcrumb-nav-list = BreadcrumbNavList = an ordered list of breadcrumb navigation items
-- breadcrumb-nav-list-item = BreadcrumbNavListItem = one breadcrumb navigation link in the trail
+- breadcrumb-list = BreadcrumbList = an ordered list of breadcrumb list items
+- breadcrumb-list-item = BreadcrumbListItem = one breadcrumb list item in the trail
+- breadcrumb-link = BreadcrumbLink = one breadcrumb link in the trail
 - button = Button = a generic clickable button element
 - button-input = ButtonInput = an input element of type button for form actions <input type="button">
 - calendar-table = CalendarTable = a calendar table interactive grid for managing dates, days, etc. <table>
@@ -47,9 +49,10 @@
 - color-picker-button = ColorPickerButton = a button showing a color swatch in a color picker
 - combobox = Combobox = a text input combined with a dropdown list for filtering options
 - command = Command = a command palette for searching and executing actions
-- contents-nav = ContentsNav = a navigation landmark for a list of contents
-- contents-list = ContentsList = an ordered list of contents list item components
-- contents-list-item = ContentsListItem = one contents list item component linking to a page section
+- contents-nav = ContentsNav = a contents navigation area
+- contents-list = ContentsList = an contents ordered list of contents list item components
+- contents-list-item = ContentsListItem = one contents list item
+- contents-link = ContentsLink = one table of contents link
 - context-menu = ContextMenu = a menu that appears on right-click or long-press
 - context-menu-item = ContextMenuItem = one item in a context menu
 - currency-input = CurrencyInput = a locale-aware currency input with automatic formatting, symbols, separators
@@ -157,8 +160,9 @@
 - number-input = NumberInput = an input for entering a numeric value with validation <input type="number">
 - option = Option = an option element within a select dropdown
 - pagination-nav = PaginationNav = an ordered list of page navigation links
-- pagination-list = PaginationList = an ordered list of page navigation links
-- pagination-list-item = PaginationListItem = one page link in a pagination list
+- pagination-list = PaginationList = an ordered list of pagination list items
+- pagination-list-item = PaginationListItem = one pagination list item in the trail
+- pagination-link = PaginationLink = one pagination link in the trail
 - panel = Panel = a generic content panel with optional heading
 - password-input = PasswordInput = an input for entering a password with obscured text <input type="password">
 - password-input-or-text-input-div = PasswordInputOrTextInputDiv = an input for entering a password <input type="password"> or text <input type="text"> with show/hide toggle
@@ -245,8 +249,9 @@
 - tour-list-item = TourListItem = one step in a tour guide list
 - tree-menu = TreeMenu = a hierarchical tree menu with expandable branches
 - tree-nav = TreeNav = a hierarchical navigation with expandable branches
-- tree-nav-list = TreeNavList = a hierarchical list with nested expandable items
-- tree-nav-list-item = TreeNavListItem = one item in a tree navigation list
+- tree-list = TreeList = a hierarchical list with nested expandable items
+- tree-list-item = TreeListItem = one item in a tree navigation list
+- tree-link = TreeLink one link in the tree
 - united-kingdom-national-health-service-number-input = UnitedKingdomNationalHealthServiceNumberInput = an input for entering a UK NHS number
 - united-kingdom-national-health-service-number-view = UnitedKingdomNationalHealthServiceNumberView = a read-only display of a UK NHS number
 - united-states-social-security-number-input = UnitedStatesSocialSecurityNumberInput = an input for entering a US Social Security number
@@ -284,4 +289,186 @@
 - vital-sign-weight-as-kg-input = VitalSignWeightAsKgInput = number input of one vital sign weight in kilograms with integers
 - warning-callout = WarningCallout = a callout box highlighting a warning message
 - week-input = WeekInput = an input for selecting a week and year <input type="week">
--
+
+## Component patterns for file name and HTML tag
+
+### Suffix → HTML Element Mapping
+
+| Suffix     | Element      | Example                                          |
+| ---------- | ------------ | ------------------------------------------------ |
+| article    | `<article>`  |                                                  |
+| aside      | `<aside>`    | GrailLayoutLeftAside, GrailLayoutRightAside      |
+| button     | `<button>`   | Button, ToggleButton, SwitchButton               |
+| dialog     | `<dialog>`   | Dialog, AlertDialog, FileDialog                  |
+| div        | `<div>`      | PinInputDiv, PasswordInputOrTextInputDiv         |
+| fieldset   | `<fieldset>` | Fieldset                                         |
+| figure     | `<figure>`   | Figure                                           |
+| footer     | `<footer>`   | Footer                                           |
+| header     | `<header>`   | Header                                           |
+| input      | `<input>`    | TextInput, DateInput, EmailInput                 |
+| kbd        | `<kbd>`      |                                                  |
+| list       | `<ol>`       | CheckList, TaskList (DoList/DontList use `<ul>`) |
+| list-item  | `<li>`       | CheckListItem, TaskListItem                      |
+| main       | `<main>`     | GrailLayoutCenterMain                            |
+| meter      | `<meter>`    | Meter                                            |
+| nav        | `<nav>`      | BreadcrumbNav, TreeNav                           |
+| option     | `<option>`   | Option, ThemeSelectOption                        |
+| picker     | `<div>`      | ColorPicker, FiveStarRatingPicker                |
+| progress   | `<progress>` | Progress                                         |
+| select     | `<select>`   | Select, ThemeSelect                              |
+| span       | `<span>`     | Flair, Character                                 |
+| table      | `<table>`    | DataTable, CalendarTable                         |
+| table-head | `<thead>`    | DataTableHead                                    |
+| table-body | `<tbody>`    | DataTableBody                                    |
+| table-foot | `<tfoot>`    | DataTableFoot                                    |
+| table-row  | `<tr>`       | DataTableRow                                     |
+| table-col  | `<th>`       | DataTableCol                                     |
+| table-data | `<td>`       | DataTableData                                    |
+
+## Component name patterns
+
+- \*Bar \*BarButton
+  - MenuBar MenuBarButton
+  - TabBar TabBarButton
+  - TaskBar TaskBarButton
+  - ToolBar ToolBarButton
+- \*Group \*GroupItem
+  - SegmentGroup SegmentGroupItem
+- \*Guide \*GuideList \*GuideListItem
+  - Tour TourList TourListItem
+- \*List \*ListItem
+  - CheckList CheckListItem
+  - ContentsList ContentsListItem
+  - DoList DoListItem
+  - DontList DontListItem
+  - PaginationList PaginationListItem
+  - SummaryList SummaryListItem
+- \*Nav \*List \*ListItem \*Link
+  - AccordionNav AccordionList AccordionListItem AccordionLink
+  - BreadcrumbNav BreadcrumbList BreadcrumbListItem BreadcrumbLink
+  - ContentsNav ContentsList ContentsListItem ContentsLink
+  - PaginationNav PaginationList PaginationListItem PaginationLink
+  - TreeNav TreeList TreeListItem TreeLink
+- \*Select \*SelectOption
+  - ThemeSelect ThemeSelectOption
+- \*Menu \*MenuItem
+  - ContextMenu ContextMenuItem
+  - Menu MenuItem
+- \*Input \*Link
+  - TelInput TelLink
+  - EmailInput EmailLink
+- \*Picker \*PickerButton
+  - ColorPicker ColorPickerButton
+  - FiveFaceRatingPicker FiveFaceRatingPickerButton
+  - FiveStarRatingPicker FiveStarRatingPickerButton
+  - NetPromoterScorePicker NetPromoterScorePickerButton
+  - RedAmberGreenPicker RedAmberGreenPickerButton
+  - RedOrangeYellowGreenBluePicker RedOrangeYellowGreenBluePickerButton
+- \*Table \*TableHead \*TableBody \*TableFoot \*TableCol \*TableRow \*TableData
+  - Table TableHead TableBody TableFoot TableCol TableRow TableData
+  - CalendarTable CalendarTableHead CalendarTableBody CalendarTableFoot CalendarTableCol CalendarTableRow CalendarTableData
+  - DataTable DataTableHead DataTableBody DataTableFoot DataTableCol DataTableRow DataTableData
+  - GanttTable GanttTableHead GanttTableBody GanttTableFoot GanttTableCol GanttTableRow GanttTableData
+  - KanbanTable KanbanTableHead KanbanTableBody KanbanTableFoot KanbanTableCol KanbanTableRow KanbanTableData
+
+## Component Composition Patterns
+
+### Form pattern: Form → Field → Input
+
+```tsx
+<Form label="Contact" onSubmit={handleSubmit}>
+  <Field label="Name" required error={errors.name}>
+    <TextInput label="Name" value={name} onChange={setName} />
+  </Field>
+  <ErrorSummary title="Errors">
+    <ul>...</ul>
+  </ErrorSummary>
+  <Button type="submit">Submit</Button>
+</Form>
+```
+
+### Grail layout pattern: GrailLayout → GrailLayoutTop, GrailLayoutLeft, GrailLayoutCenter, GrailLayoutRight, GrailLayoutBottom
+
+```tsx
+<GrailLayout>
+  <GrailLayoutTopHeader>…</GrailLayoutTopHeader>
+  <GrailLayoutLeftAside>…</GrailLayoutLeftAside>
+  <GrailLayoutCenterMain>…</GrailLayoutCenterMain>
+  <GrailLayoutRightAside>…</GrailLayoutRightAside>
+  <GrailLayoutBottomFooter>…</GrailLayoutBottomFooter>
+</GrailLayout>
+```
+
+### Navigation pattern: Nav → List → ListItem
+
+```tsx
+<BreadcrumbNav label="Breadcrumb">
+  <BreadcrumbList>
+    <BreadcrumbListItem>
+      <a href="/">Home</a>
+    </BreadcrumbListItem>
+    <BreadcrumbListItem current>Page</BreadcrumbListItem>
+  </BreadcrumbList>
+</BreadcrumbNav>
+```
+
+### Table pattern: Table → Head/Body → Row → Data
+
+```tsx
+<DataTable label="Users">
+  <DataTableHead>
+    <DataTableRow>
+      <th>Name</th>
+    </DataTableRow>
+  </DataTableHead>
+  <DataTableBody>
+    <DataTableRow>
+      <DataTableData>Item</DataTableData>
+    </DataTableRow>
+  </DataTableBody>
+</DataTable>
+```
+
+### VitalSignGroupView pattern
+
+```tsx
+<VitalSignGroupView>
+  <VitalSignHeartRateAsBeatsPerMinuteView>
+    …
+  </VitalSignHeartRateAsBeatsPerMinuteView>
+  <VitalSignRespiratoryRateAsBreathsPerMinuteView>
+    …
+  </VitalSignRespiratoryRateAsBreathsPerMinuteView>
+  <VitalSignBodyTemperatureAsCelciusView>
+    …
+  </VitalSignBodyTemperatureAsCelciusView>
+  <VitalSignBloodPressureSystolicAsMmhgView>
+    …
+  </VitalSignBloodPressureSystolicAsMmhgView>
+  <VitalSignBloodPressureDiastolicAsMmhgView>
+    …
+  </VitalSignBloodPressureDiastolicAsMmhgView>
+</VitalSignGroupView>
+```
+
+### VitalSignGroupInput pattern
+
+```tsx
+<VitalSignGroupInput>
+  <VitalSignHeartRateAsBeatsPerMinuteInput>
+    …
+  </VitalSignHeartRateAsBeatsPerMinuteInput>
+  <VitalSignRespiratoryRateAsBreathsPerMinuteInput>
+    …
+  </VitalSignRespiratoryRateAsBreathsPerMinuteInput>
+  <VitalSignBodyTemperatureAsCelciusInput>
+    …
+  </VitalSignBodyTemperatureAsCelciusInput>
+  <VitalSignBloodPressureSystolicAsMmhgInput>
+    …
+  </VitalSignBloodPressureSystolicAsMmhgInput>
+  <VitalSignBloodPressureDiastolicAsMmhgInput>
+    …
+  </VitalSignBloodPressureDiastolicAsMmhgInput>
+</VitalSignGroupInput>
+```

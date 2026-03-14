@@ -12,26 +12,26 @@
 ## Composition
 
 - Pattern: Nav/List/ListItem
-- Children: tree-nav-list, tree-nav-list-item
+- Children: tree-list, tree-list-item
 
 ## Key Behaviors
 
 - Renders as a `<nav>` element to create a navigation landmark for the tree structure
 - The `label` prop sets `aria-label` to identify the navigation region
-- Consumer provides a TreeNavList with TreeNavListItem children inside the nav
-- The TreeNavList manages tree keyboard navigation (arrow keys, Home, End)
+- Consumer provides a TreeList with TreeListItem children inside the nav
+- The TreeList manages tree keyboard navigation (arrow keys, Home, End)
 - Spreads `...restProps` onto the `<nav>` element for consumer customization
 - No internal state -- purely a structural wrapper providing the navigation landmark
 
 ## ARIA
 
 - `<nav aria-label="...">` -- creates a navigation landmark with a descriptive label for the tree navigation region
-- Tree semantics (`role="tree"`, `role="treeitem"`) are provided by the child TreeNavList and TreeNavListItem components
+- Tree semantics (`role="tree"`, `role="treeitem"`) are provided by the child TreeList and TreeListItem components
 
 ## Keyboard
 
-- ArrowDown: Moves focus to the next visible tree item (managed by TreeNavList)
-- ArrowUp: Moves focus to the previous visible tree item (managed by TreeNavList)
+- ArrowDown: Moves focus to the next visible tree item (managed by TreeList)
+- ArrowUp: Moves focus to the previous visible tree item (managed by TreeList)
 - ArrowRight: Expands a collapsed item, or moves to first child
 - ArrowLeft: Collapses an expanded item, or moves to parent
 - Home: Moves focus to the first tree item
@@ -40,7 +40,7 @@
 ## Props
 
 - `label`: string (required) -- accessible name for the navigation landmark via `aria-label`
-- `children`: slot (required) -- TreeNavList with tree navigation items
+- `children`: slot (required) -- TreeList with tree navigation items
 - `...restProps`: any -- additional HTML attributes spread onto the `<nav>` element
 
 ## Acceptance Criteria

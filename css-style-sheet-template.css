@@ -4,12 +4,16 @@
 .accordion-nav {
 }
 
-/* accordion-nav-list: an ordered list of accordion nav list item components */
-.accordion-nav-list {
+/* accordion-list: an ordered list of accordion list item components */
+.accordion-list {
 }
 
-/* accordion-nav-list-item: one accordion nav list item component */
-.accordion-nav-list-item {
+/* accordion-list-item: one accordion list item component */
+.accordion-list-item {
+}
+
+/* accordion-link: one accordion link in the trail */
+.accordion-link {
 }
 
 /* action-link: a hyperlink styled as an action trigger */
@@ -68,12 +72,16 @@
 .breadcrumb-nav {
 }
 
-/* breadcrumb-nav-list: an ordered list of breadcrumb navigation items */
-.breadcrumb-nav-list {
+/* breadcrumb-list: an ordered list of breadcrumb navigation items */
+.breadcrumb-list {
 }
 
-/* breadcrumb-nav-list-item: one breadcrumb navigation link in the trail */
-.breadcrumb-nav-list-item {
+/* breadcrumb-list-item: one breadcrumb navigation link in the trail */
+.breadcrumb-list-item {
+}
+
+/* breadcrumb-link: one breadcrumb link in the trail */
+.breadcrumb-link {
 }
 
 /* button: a generic clickable button element */
@@ -636,6 +644,10 @@
 .pagination-list-item {
 }
 
+/* pagination-link: one pagination link in the trail */
+.pagination-link {
+}
+
 /* panel: a generic content panel with optional heading */
 .panel {
 }
@@ -980,12 +992,16 @@
 .tree-nav {
 }
 
-/* tree-nav-list: a hierarchical list with nested expandable items */
-.tree-nav-list {
+/* tree-list: a hierarchical list with nested expandable items */
+.tree-list {
 }
 
-/* tree-nav-list-item: one item in a tree navigation list */
-.tree-nav-list-item {
+/* tree-list-item: one item in a tree navigation list */
+.tree-list-item {
+}
+
+/* tree-link: one tree link in the trail */
+.tree-link {
 }
 
 /* united-kingdom-national-health-service-number-input: an input for entering a UK NHS number */

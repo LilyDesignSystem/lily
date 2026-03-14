@@ -10,8 +10,8 @@
 
 - [ ] Implement HTML headless component (tree-nav.html)
 - [ ] Implement HTML headless test (tree-nav.test.js)
-- [ ] Implement child component: tree-nav-list
-- [ ] Implement child component: tree-nav-list-item
+- [ ] Implement child component: tree-list
+- [ ] Implement child component: tree-list-item
 
 ## Backlog
 

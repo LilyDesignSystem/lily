@@ -228,7 +228,7 @@ COMPOSITION_PATTERNS["segment-group-item"] = {
   parent: "segment-group",
 };
 
-// Nav/NavList/NavListItem
+// Nav/List/ListItem
 for (const prefix of ["accordion-nav", "breadcrumb-nav", "tree-nav"]) {
   const list = `${prefix}-list`;
   const item = `${prefix}-list-item`;

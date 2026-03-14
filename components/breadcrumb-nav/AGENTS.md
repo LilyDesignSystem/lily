@@ -12,7 +12,7 @@
 ## Composition
 
 - Pattern: Nav/List/ListItem
-- Children: breadcrumb-nav-list, breadcrumb-nav-list-item
+- Children: breadcrumb-list, breadcrumb-list-item
 
 ## Key Behaviors
 

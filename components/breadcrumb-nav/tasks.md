@@ -10,8 +10,8 @@
 
 - [ ] Implement HTML headless component (breadcrumb-nav.html)
 - [ ] Implement HTML headless test (breadcrumb-nav.test.js)
-- [ ] Implement child component: breadcrumb-nav-list
-- [ ] Implement child component: breadcrumb-nav-list-item
+- [ ] Implement child component: breadcrumb-list
+- [ ] Implement child component: breadcrumb-list-item
 
 ## Backlog
 

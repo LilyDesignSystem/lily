@@ -41,7 +41,7 @@ If the component uses a composition pattern, add a **Composition** section expla
 
 Examples of composition patterns:
 
-- `*Nav` `*NavList` `*NavListItem` (e.g., AccordionNav, BreadcrumbNav)
+- `*Nav` `*List` `*ListItem` (e.g., AccordionNav, BreadcrumbNav)
 - `*List` `*ListItem` (e.g., CheckList, ContentsList, SummaryList)
 - `*Table` `*TableHead` `*TableBody` `*TableFoot` `*TableCol` `*TableRow` `*TableData`
 - `*Bar` `*BarButton` (e.g., MenuBar, TabBar, TaskBar, ToolBar)

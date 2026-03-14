@@ -11,7 +11,7 @@ Implement the Accordion Nav component: a navigation container for collapsible ac
 
 ## Dependencies
 
-- Requires children: accordion-nav-list, accordion-nav-list-item
+- Requires children: accordion-list, accordion-list-item
 
 ## Approach
 

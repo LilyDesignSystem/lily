@@ -1,6 +1,6 @@
 # Theme design principle rules
 
-Color pallette:
+Color palette:
 
 - primary #2563eb
 - NHS blue #005eb8

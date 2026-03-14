@@ -1,17 +1,15 @@
-# Accordion Nav — Tasks
+# Accordion Link — Tasks
 
 ## Done
 
 - [x] Create component directory with index.md and README.md symlink
 - [x] Document props, usage, keyboard interactions, and ARIA in index.md
-- [x] Add CSS class .accordion-nav to css-style-sheet-template.css
+- [x] Add CSS class .accordion-link to css-style-sheet-template.css
 
 ## In Progress
 
-- [ ] Implement HTML headless component (accordion-nav.html)
-- [ ] Implement HTML headless test (accordion-nav.test.js)
-- [ ] Implement child component: accordion-list
-- [ ] Implement child component: accordion-list-item
+- [ ] Implement HTML headless component (accordion-link.html)
+- [ ] Implement HTML headless test (accordion-link.test.js)
 
 ## Backlog
 

@@ -53,17 +53,14 @@ BreadcrumbList is a compound component. It provides the parent container structu
 
 This component provides a `<nav>` landmark with `aria-label` containing an `<ol>` for ordered hierarchy, with zero visual styling. The consumer is responsible for all CSS including separator characters between items, link styling, current page indicator styling, spacing, and responsive layout.
 
-
 ## Styles
 
 The consumer provides all CSS styling. The component renders with a `.breadcrumb-nav` class for targeting. No default styles are included — this is a fully headless component.
 
-
 ## Testing
 
-
 - Verify the component renders a `<nav>` element with class `breadcrumb-nav`
-- Verify <nav>` with `aria-label` creates a navigation landmark for the breadcrumb trail
+- Verify <nav>`with`aria-label` creates a navigation landmark for the breadcrumb trail
 - Verify keyboard interactions work correctly
 - Verify pass-through attributes are applied
 
@@ -77,19 +74,20 @@ The consumer provides all CSS styling. The component renders with a `.breadcrumb
 BreadcrumbNav follows the Nav / List / ListItem composition pattern:
 
 - **BreadcrumbNav** -- outer `<nav>` container providing the navigation landmark and accessible label.
-- **BreadcrumbNavList** -- `<ol>` list conveying the ordered hierarchical relationship.
-- **BreadcrumbNavListItem** -- individual `<li>` items, each containing a link or the current page text.
+- **BreadcrumbList** -- `<ol>` list conveying the ordered hierarchical relationship.
+- **BreadcrumbListItem** -- individual `<li>` items, each containing a link or the current page text.
 
 ```html
 <BreadcrumbNav label="Breadcrumb">
-  <BreadcrumbNavList>
-    <BreadcrumbNavListItem><a href="/">Home</a></BreadcrumbNavListItem>
-    <BreadcrumbNavListItem><a href="/products">Products</a></BreadcrumbNavListItem>
-    <BreadcrumbNavListItem current>Widget</BreadcrumbNavListItem>
-  </BreadcrumbNavList>
+  <BreadcrumbList>
+    <BreadcrumbListItem><a href="/">Home</a></BreadcrumbListItem>
+    <BreadcrumbListItem><a href="/products">Products</a></BreadcrumbListItem>
+    <BreadcrumbListItem current>Widget</BreadcrumbListItem>
+  </BreadcrumbList>
 </BreadcrumbNav>
 ```
 
 ## References
 
 - WAI-ARIA Breadcrumb Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/breadcrumb/
+umb/

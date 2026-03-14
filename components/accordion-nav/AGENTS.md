@@ -12,7 +12,7 @@
 ## Composition
 
 - Pattern: Nav/List/ListItem
-- Children: accordion-nav-list, accordion-nav-list-item
+- Children: accordion-list, accordion-list-item
 
 ## ARIA
 

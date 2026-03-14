@@ -11,7 +11,7 @@ Implement the Tree Nav component: a hierarchical navigation with expandable bran
 
 ## Dependencies
 
-- Requires children: tree-nav-list, tree-nav-list-item
+- Requires children: tree-list, tree-list-item
 
 ## Approach
 
@@ -28,9 +28,9 @@ Implement the Tree Nav component: a hierarchical navigation with expandable bran
 
 - [ ] Renders <nav> with class="tree-nav"
 - [ ] `<nav aria-label="...">` -- creates a navigation landmark with a descriptive label for the tree navigation region
-- [ ] Tree semantics (`role="tree"`, `role="treeitem"`) are provided by the child TreeNavList and TreeNavListItem components
-- [ ] Keyboard: ArrowDown: Moves focus to the next visible tree item (managed by TreeNavList)
-- [ ] Keyboard: ArrowUp: Moves focus to the previous visible tree item (managed by TreeNavList)
+- [ ] Tree semantics (`role="tree"`, `role="treeitem"`) are provided by the child TreeList and TreeListItem components
+- [ ] Keyboard: ArrowDown: Moves focus to the next visible tree item (managed by TreeList)
+- [ ] Keyboard: ArrowUp: Moves focus to the previous visible tree item (managed by TreeList)
 - [ ] Keyboard: ArrowRight: Expands a collapsed item, or moves to first child
 - [ ] Keyboard: ArrowLeft: Collapses an expanded item, or moves to parent
 - [ ] Keyboard: Home: Moves focus to the first tree item

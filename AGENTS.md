@@ -37,7 +37,7 @@ Tools:
 - [test-components](bin/test-components)
 - [test-implementations](bin/test-implementations)
 
-Color pallette:
+Color palette:
 
 - primary #2563eb
 - NHS blue #005eb8
@@ -61,8 +61,9 @@ Files:
 ## Components
 
 - accordion-nav = AccordionNav = a navigation container for collapsible accordion information
-- accordion-nav-list = AccordionNavList = an ordered list of accordion nav list item components
-- accordion-nav-list-item = AccordionNavListItem = one accordion nav list item component
+- accordion-list = AccordionList = an ordered list of accordion list item components
+- accordion-list-item = AccordionListItem = one accordion list item component
+- accordion-link = AccordionLink = one accordion link in the trail
 - action-link = ActionLink = a hyperlink styled as an action trigger
 - ai-label = AiLabel = an indicator of AI instances that is a pathway to AI explainability
 - alert-dialog = AlertDialog = a modal dialog for urgent messages requiring user acknowledgment
@@ -77,8 +78,9 @@ Files:
 - banner = Banner = a prominent message bar across the top of a page
 - beach-ball = BeachBall = a decorative animated beach ball element
 - breadcrumb-nav = BreadcrumbNav = a navigation container for breadcrumb trail links
-- breadcrumb-nav-list = BreadcrumbNavList = an ordered list of breadcrumb navigation items
-- breadcrumb-nav-list-item = BreadcrumbNavListItem = one breadcrumb navigation link in the trail
+- breadcrumb-list = BreadcrumbList = an ordered list of breadcrumb navigation items
+- breadcrumb-list-item = BreadcrumbListItem = one breadcrumb navigation link in the trail
+- breadcrumb-link = BreadcrumbLink = one breadcrumb link in the trail
 - button = Button = a generic clickable button element
 - button-input = ButtonInput = an input element of type button for form actions <input type="button">
 - calendar-table = CalendarTable = a calendar table interactive grid for managing dates, days, etc. <table>
@@ -219,6 +221,7 @@ Files:
 - pagination-nav = PaginationNav = an ordered list of page navigation links
 - pagination-list = PaginationList = an ordered list of page navigation links
 - pagination-list-item = PaginationListItem = one page link in a pagination list
+- pagination-link = PaginationLink = one pagination link in the trail
 - panel = Panel = a generic content panel with optional heading
 - password-input = PasswordInput = an input for entering a password with obscured text <input type="password">
 - password-input-or-text-input-div = PasswordInputOrTextInputDiv = an input for entering a password <input type="password"> or text <input type="text"> with show/hide toggle
@@ -305,8 +308,9 @@ Files:
 - tour-list-item = TourListItem = one step in a tour guide list
 - tree-menu = TreeMenu = a hierarchical tree menu with expandable branches
 - tree-nav = TreeNav = a hierarchical navigation with expandable branches
-- tree-nav-list = TreeNavList = a hierarchical list with nested expandable items
-- tree-nav-list-item = TreeNavListItem = one item in a tree navigation list
+- tree-list = TreeList = a hierarchical list with nested expandable items
+- tree-list-item = TreeListItem = one item in a tree navigation list
+- tree-link = TreeLink = one tree link in the trail
 - united-kingdom-national-health-service-number-input = UnitedKingdomNationalHealthServiceNumberInput = an input for entering a UK NHS number
 - united-kingdom-national-health-service-number-view = UnitedKingdomNationalHealthServiceNumberView = a read-only display of a UK NHS number
 - united-states-social-security-number-input = UnitedStatesSocialSecurityNumberInput = an input for entering a US Social Security number
@@ -363,7 +367,7 @@ Files:
 | input      | `<input>`    | TextInput, DateInput, EmailInput                 |
 | kbd        | `<kbd>`      |                                                  |
 | list       | `<ol>`       | CheckList, TaskList (DoList/DontList use `<ul>`) |
-| list=item  | `<li>`       | CheckListItem, TaskListItem                      |
+| list-item  | `<li>`       | CheckListItem, TaskListItem                      |
 | main       | `<main>`     | GrailLayoutCenterMain                            |
 | meter      | `<meter>`    | Meter                                            |
 | nav        | `<nav>`      | BreadcrumbNav, TreeNav                           |
@@ -375,7 +379,7 @@ Files:
 | table      | `<table>`    | DataTable, CalendarTable                         |
 | table-head | `<thead>`    | DataTableHead                                    |
 | table-body | `<tbody>`    | DataTableBody                                    |
-| table=foot | `<tfoot>`    | DataTableFoot                                    |
+| table-foot | `<tfoot>`    | DataTableFoot                                    |
 | table-row  | `<tr>`       | DataTableRow                                     |
 | table-col  | `<th>`       | DataTableCol                                     |
 | table-data | `<td>`       | DataTableData                                    |
@@ -398,12 +402,12 @@ Files:
   - DontList DontListItem
   - PaginationList PaginationListItem
   - SummaryList SummaryListItem
-- \*Nav \*NavList \*NavListItem
-  - AccordionNav AccordionNavList AccordionNavListItem
-  - BreadcrumbNav BreadcrumbNavList BreadcrumbNavListItem
+- \*Nav \*List \*ListItem
+  - AccordionNav AccordionList AccordionListItem
+  - BreadcrumbNav BreadcrumbList BreadcrumbListItem
   - ContentsNav ContentsList ContentsListItem
   - PaginationNav PaginationList PaginationListItem
-  - TreeNav TreeNavList TreeNavListItem
+  - TreeNav TreeList TreeListItem
 - *Select *SelectOption
   - ThemeSelect ThemeSelectOption
 - \*Menu \*MenuItem
@@ -458,12 +462,12 @@ Files:
 
 ```tsx
 <BreadcrumbNav label="Breadcrumb">
-  <BreadcrumbNavList>
-    <BreadcrumbNavListItem>
+  <BreadcrumbList>
+    <BreadcrumbListItem>
       <a href="/">Home</a>
-    </BreadcrumbNavListItem>
-    <BreadcrumbNavListItem current>Page</BreadcrumbNavListItem>
-  </BreadcrumbNavList>
+    </BreadcrumbListItem>
+    <BreadcrumbListItem current>Page</BreadcrumbListItem>
+  </BreadcrumbList>
 </BreadcrumbNav>
 ```
 

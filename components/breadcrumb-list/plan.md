@@ -1,21 +1,22 @@
-# Breadcrumb Nav — Implementation Plan
+# Breadcrumb List — Implementation Plan
 
 ## Goal
 
-Implement the Breadcrumb Nav component: a navigation container for breadcrumb trail links.
+Implement the Breadcrumb List component: an ordered list of breadcrumb navigation items.
 
 ## HTML Tag and CSS Class
 
-- HTML tag: <nav>
-- CSS class: .breadcrumb-nav
+- HTML tag: <ol>
+- CSS class: .breadcrumb-list
 
 ## Dependencies
 
-- Requires children: breadcrumb-list, breadcrumb-list-item
+- Requires parent: breadcrumb-nav
+- Requires children: breadcrumb-list-item
 
 ## Approach
 
-1. Use semantic <nav> element with class="breadcrumb-nav"
+1. Use semantic <ol> element with class="breadcrumb-list"
 2. Add ARIA attributes for accessibility
 3. Implement keyboard navigation
 4. Add vanilla JavaScript for interactive behavior
@@ -26,9 +27,8 @@ Implement the Breadcrumb Nav component: a navigation container for breadcrumb tr
 
 ## Acceptance Criteria
 
-- [ ] Renders <nav> with class="breadcrumb-nav"
-- [ ] `<nav>` with `aria-label` creates a navigation landmark for the breadcrumb trail
-- [ ] `aria-current="page"` on the BreadcrumbListItem for the current page
+- [ ] Renders <ol> with class="breadcrumb-list"
+- [ ] The parent BreadcrumbNav provides the `<nav>` landmark with `aria-label`
 - [ ] Keyboard: Tab: Focus moves between links in the breadcrumb trail
 - [ ] Keyboard: Enter: Activates the focused breadcrumb link
 - [ ] WCAG 2.2 AAA compliant
