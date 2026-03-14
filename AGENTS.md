@@ -135,6 +135,7 @@ Files:
 - details = Details = a disclosure widget that shows and hides content
 - dial = Dial = a rotary dial control for selecting a value
 - diff = Diff = a side-by-side comparison of two items
+- digital-object-identifier-link = DigitalObjectIdentifierLink = a permanent hyperlink for a Digital Object Identifier (DOI) to an electronic source
 - dialog = Dialog = a modal or non-modal dialog window
 - do-list = DoList = a guideline list of encouraged do-list-item components
 - do-list-item = DoListItem = an encouraged-practice item in a do-list guideline list

@@ -102,6 +102,7 @@ Headless versions if you want to use components with all your own styles:
 - [details](components/details): a disclosure widget that shows and hides content
 - [dial](components/dial): a rotary dial control for selecting a value
 - [diff](components/diff): a side-by-side comparison of two items
+- [digital-object-identifier-link](components/digital-object-identifier-link): a permanent hyperlink for a Digital Object Identifier (DOI) to an electronic source
 - [dialog](components/dialog): a modal or non-modal dialog window
 - [do-list](components/do-list): a guideline list of encouraged do-list-item components
 - [do-list-item](components/do-list-item): an encouraged-practice item in a do-list guideline list
