@@ -225,6 +225,7 @@
 - sparkline = Sparkline = a small inline chart showing a data trend
 - splitter = Splitter = a draggable divider for resizing adjacent panels
 - submit-input = SubmitInput = a button input that submits a form <input type="submit">
+- super-banner = SuperBanner = a super-banner communicates a high-priority state that affects an entire app, experience, process, or system
 - summary-list = SummaryList = an ordered list of key-value summary pairs
 - summary-list-item = SummaryListItem = one key-value pair in a summary list
 - switch-button = SwitchButton = a toggle switch for turning a setting on or off

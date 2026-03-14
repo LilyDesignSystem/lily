@@ -247,6 +247,7 @@ Headless versions if you want to use components with all your own styles:
 - [sparkline](components/sparkline): a small inline chart showing a data trend
 - [splitter](components/splitter): a draggable divider for resizing adjacent panels
 - [submit-input](components/submit-input): a button input that submits a form
+- [super-banner](components/super-banner): a super-banner communicates a high-priority state that affects an entire app, experience, process, or system
 - [summary-list](components/summary-list): an ordered list of key-value summary pairs
 - [summary-list-item](components/summary-list-item): one key-value pair in a summary list
 - [switch-button](components/switch-button): a toggle switch for turning a setting on or off
