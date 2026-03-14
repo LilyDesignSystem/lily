@@ -159,6 +159,7 @@
 - menu-bar = MenuBar = a horizontal bar of menu triggers
 - menu-bar-button = MenuBarButton = one item in a menu bar
 - meter = Meter = a gauge displaying a scalar value within a known range
+- mockup-browser = MockupBrowser = a box area that looks like a web browser
 - month-input = MonthInput = an input for selecting a month and year <input type="month">
 - navigation-menu = NavigationMenu = a site-wide navigation menu with links
 - net-promoter-score-view = NetPromoterScoreView = a read-only display of a Net Promoter Score

@@ -181,6 +181,7 @@ Headless versions if you want to use components with all your own styles:
 - [menu-bar](components/menu-bar): a horizontal bar of menu triggers
 - [menu-bar-button](components/menu-bar-button): one item in a menu bar
 - [meter](components/meter): a gauge displaying a scalar value within a known range
+- [mockup-browser](components/mockup-browser): a box area that looks like a web browser
 - [month-input](components/month-input): an input for selecting a month and year
 - [navigation-menu](components/navigation-menu): a site-wide navigation menu with links
 - [net-promoter-score-view](components/net-promoter-score-view): a read-only display of a Net Promoter Score
