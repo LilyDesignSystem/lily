@@ -162,6 +162,7 @@
 - menu-bar-button = MenuBarButton = one item in a menu bar
 - meter = Meter = a gauge displaying a scalar value within a known range
 - mockup-browser = MockupBrowser = a box area that looks like a web browser
+- mockup-laptop = MockupLaptop = a box area that looks like a laptop computer
 - mockup-phone = MockupPhone = a box area that looks like a mobile phone
 - mockup-shell = MockupShell = a box area that looks like a terminal shell
 - mockup-window = MockupWindow = a box area that looks like a desktop window

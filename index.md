@@ -184,6 +184,7 @@ Headless versions if you want to use components with all your own styles:
 - [menu-bar-button](components/menu-bar-button): one item in a menu bar
 - [meter](components/meter): a gauge displaying a scalar value within a known range
 - [mockup-browser](components/mockup-browser): a box area that looks like a web browser
+- [mockup-laptop](components/mockup-laptop): a box area that looks like a laptop computer
 - [mockup-phone](components/mockup-phone): a box area that looks like a mobile phone
 - [mockup-shell](components/mockup-shell): a box area that looks like a terminal shell
 - [mockup-window](components/mockup-window): a box area that looks like a desktop window
