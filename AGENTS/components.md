@@ -179,6 +179,7 @@
 - notification = Notification = a brief message about an event or update
 - number-input = NumberInput = an input for entering a numeric value with validation <input type="number">
 - option = Option = an option element within a select dropdown
+- organization = Organization = an organization component that contains other organization-related information
 - pagination-nav = PaginationNav = an ordered list of page navigation links
 - pagination-list = PaginationList = an ordered list of pagination list items
 - pagination-list-item = PaginationListItem = one pagination list item in the trail

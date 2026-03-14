@@ -201,6 +201,7 @@ Headless versions if you want to use components with all your own styles:
 - [notification](components/notification): a brief message about an event or update
 - [number-input](components/number-input): an input for entering a numeric value with validation
 - [option](components/option): an option element within a select dropdown
+- [organization](components/organization): an organization component that contains other organization-related information
 - [pagination-nav](components/pagination-nav): an ordered list of page navigation links
 - [pagination-list](components/pagination-list): an ordered list of page navigation links
 - [pagination-list-item](components/pagination-list-item): a pagination list item
