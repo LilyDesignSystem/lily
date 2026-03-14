@@ -188,6 +188,7 @@
 - person = Person = a person component that contains other person-related information
 - password-input = PasswordInput = an input for entering a password with obscured text <input type="password">
 - password-input-or-text-input-div = PasswordInputOrTextInputDiv = an input for entering a password <input type="password"> or text <input type="text"> with show/hide toggle
+- place = Place = a place component that contains other place-related information
 - pin-input-div = PinInputDiv = a series of single-digit inputs for entering a PIN or OTP code
 - popover = Popover = a floating content box anchored to a trigger element
 - popup = Popup = a temporary overlay that appears above page content

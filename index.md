@@ -210,6 +210,7 @@ Headless versions if you want to use components with all your own styles:
 - [person](components/person): a person component that contains other person-related information
 - [password-input](components/password-input): an input for entering a password with obscured text
 - [password-input-or-text-input-div](components/password-input-or-text-input-div): an input for entering a password or text with show/hide toggle
+- [place](components/place): a place component that contains other place-related information
 - [pin-input-div](components/pin-input-div): a series of single-digit inputs for entering a PIN or OTP code
 - [popover](components/popover): a floating content box anchored to a trigger element
 - [popup](components/popup): a temporary overlay that appears above page content
