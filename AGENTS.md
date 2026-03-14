@@ -222,6 +222,7 @@ Files:
 - mockup-tablet-landscape = MockupTabletLandscape = a box area that looks like a tablet computer in landscape mode
 - mockup-tablet-portrait = MockupTabletPortrait = a box area that looks like a tablet computer in portrait mode
 - mockup-shell = MockupShell = a box area that looks like a terminal shell
+- mockup-watch = MockupWatch = a box area that looks like a smart watch
 - mockup-window = MockupWindow = a box area that looks like a desktop window
 - month-input = MonthInput = an input for selecting a month and year <input type="month">
 - navigation-menu = NavigationMenu = a site-wide navigation menu with links
