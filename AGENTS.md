@@ -133,6 +133,7 @@ Files:
 - datetime-local-input = DatetimeLocalInput = an input for entering a date and time without time zone <input type="datetime-local">
 - details = Details = a disclosure widget that shows and hides content
 - dial = Dial = a rotary dial control for selecting a value
+- diff = Diff = a side-by-side comparison of two items
 - dialog = Dialog = a modal or non-modal dialog window
 - do-list = DoList = a guideline list of encouraged do-list-item components
 - do-list-item = DoListItem = an encouraged-practice item in a do-list guideline list
