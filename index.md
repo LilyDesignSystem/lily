@@ -206,6 +206,7 @@ Headless versions if you want to use components with all your own styles:
 - [pagination-list-item](components/pagination-list-item): a pagination list item
 - [pagination-link](components/pagination-list-item): a pagination link, such as to a web page in a sequence of web pages
 - [panel](components/panel): a generic content panel with optional heading
+- [person](components/person): a person component that contains other person-related information
 - [password-input](components/password-input): an input for entering a password with obscured text
 - [password-input-or-text-input-div](components/password-input-or-text-input-div): an input for entering a password or text with show/hide toggle
 - [pin-input-div](components/pin-input-div): a series of single-digit inputs for entering a PIN or OTP code
