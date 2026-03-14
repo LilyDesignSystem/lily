@@ -257,6 +257,7 @@
 - time-picker-input = TimePickerInput = an input with a dropdown for picking a time
 - timeline-list = TimelineList = an ordered list of chronological events or milestones
 - timeline-list-item = TimelineListItem = one event in a timeline list
+- tile = Tile = a grouping container that presents related content in a structured format, often as a single clickable area
 - timer = Timer = a countdown or elapsed time display
 - timer-button = TimerButton = a button with a timer that will automatically click after a given amount of time
 - toast = Toast = a brief auto-dismissing notification message

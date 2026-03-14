@@ -279,6 +279,7 @@ Headless versions if you want to use components with all your own styles:
 - [time-picker-input](components/time-picker-input): an input with a dropdown for picking a time
 - [timeline-list](components/timeline-list): an ordered list of chronological events or milestones
 - [timeline-list-item](components/timeline-list-item): one event in a timeline list
+- [tile](components/tile): a grouping container that presents related content in a structured format, often as a single clickable area
 - [timer](components/timer): a countdown or elapsed time display
 - [timer-button](components/timer-button): a button with a timer that will automatically click after a given amount of time
 - [toast](components/toast): a brief auto-dismissing notification message
