@@ -220,6 +220,7 @@
 - skip-link = SkipLink = a hidden link for keyboard users to skip to main content
 - slide-out-drawer = SlideOutDrawer = a drawer that slides out from the side of the page
 - slider = Slider = a draggable control for selecting a value along a track
+- slider-button = SliderButton = a button with a slider that the user needs to slide to confirm
 - sonner = Sonner = a toast notification manager
 - sparkline = Sparkline = a small inline chart showing a data trend
 - splitter = Splitter = a draggable divider for resizing adjacent panels

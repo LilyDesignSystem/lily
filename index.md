@@ -242,6 +242,7 @@ Headless versions if you want to use components with all your own styles:
 - [skip-link](components/skip-link): a hidden link for keyboard users to skip to main content
 - [slide-out-drawer](components/slide-out-drawer): a drawer that slides out from the side of the page
 - [slider](components/slider): a draggable control for selecting a value along a track
+- [slider-button](components/slider-button): a button with a slider that the user needs to slide to confirm
 - [sonner](components/sonner): a toast notification manager
 - [sparkline](components/sparkline): a small inline chart showing a data trend
 - [splitter](components/splitter): a draggable divider for resizing adjacent panels
