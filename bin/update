@@ -1,6 +1,6 @@
 #!/bin/sh
 set -euf
-top=$(dirname "$(git rev-parse --show-toplevel)")
+top="$(git rev-parse --show-toplevel)"
 
 cd "$top"
 
@@ -8,9 +8,18 @@ claude "
 
 use maximum thinking.
 
+update, upgrade, fix, harmonize, audit, test. 
+
 work on every subdirectory subproject:
 
-- lily
+improve every existing important file in every existing subdirectory:
+
+- index.md
+- AGENTS.md
+- plan.md
+- tasks.md
+
+- components
 - lily-blazor-headless
 - lily-blazor-web-examples
 - lily-html-headless
@@ -21,14 +30,5 @@ work on every subdirectory subproject:
 - lily-svelte-sveltekit-examples
 - lily-vue-headless
 - lily-vue-nuxt-examples
-
-update, upgrade, fix, harmonize, audit, test. 
-
-improve every existing important file in every existing subdirectory:
-
-- index.md
-- AGENTS.md
-- plan.md
-- tasks.md
 
 "

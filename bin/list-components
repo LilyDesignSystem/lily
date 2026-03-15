@@ -3,4 +3,4 @@ set -euf
 
 top="$(git rev-parse --show-toplevel)"
 
-find "$top/components" -type d -depth 1 -not -path '*/.*' -exec basename {} \; | sort
+awk -F\t '{print $1}' "$top/components.csv"

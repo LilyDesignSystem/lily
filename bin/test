@@ -7,17 +7,16 @@ err() { >&2 printf %s\\n "Error: ${*}"; }
 
 directory_exists_or_err() { test -d "$1" || err "Directory should exist: $1"; }
 file_exists_or_err() { test -f "$1" || err "File should exist: $1"; }
-file_not_empty_or_err() { file_exists_or_err "$1" && test -f "$1" || err "File should be not empty: $1"; }
+file_not_empty_or_err() { file_exists_or_err "$1" && test -s "$1" || err "File should be not empty: $1"; }
 symlink_exists_or_err() { test -h "$1" || err "Symlink should exist: $1"; }
 
 ## Utilities
 
 repo_setup_exists_or_err() (
     # dir="$1"
-    file_not_empty "$1/CITATION.cff"
-    file_not_empty "$1/CODE_OF_CONDUCT.md"
-    file_not_empty "$1/LICENSE.md"
-    
+    file_not_empty_or_err "$1/CITATION.cff"
+    file_not_empty_or_err "$1/CODE_OF_CONDUCT.md"
+    file_not_empty_or_err "$1/LICENSE.md"
 )
 
 ai_exists_or_err() (
@@ -34,7 +33,17 @@ ai_exists_or_err() (
 ## Main
 
 top="$(git rev-parse --show-toplevel)"
+
+## Test repository
 repo_setup_exists_or_err "$top"
 ai_exists_or_err "$top"
-"$top/bin/test-components"
-"$top/bin/test-implementations"
+
+## Test components
+for component in $("$top/bin/list-components"); do
+    ai_exists_or_err "$top/components/$component"
+done
+
+## Test implementations
+for implementation in $("$top/bin/list-implementations" | sort); do
+    ai_exists_or_err "$implementation"
+done

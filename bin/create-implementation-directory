@@ -1,6 +1,6 @@
 #!/bin/sh
 set -euf
-top=$(dirname "$(git rev-parse --show-toplevel)")
+top="$(git rev-parse --show-toplevel)"
 
 mkdir_with_ai() {
   # dir="$1"
