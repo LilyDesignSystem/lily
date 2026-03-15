@@ -49,5 +49,5 @@
 
 - Documentation: index.md
 - CSS class: .date-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/date-input.html
+- HTML headless: lily-design-system-html-headless/components/date-input.html
 - MDN date input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date

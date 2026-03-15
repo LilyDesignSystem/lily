@@ -45,5 +45,5 @@
 
 - Documentation: index.md
 - CSS class: .option in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/option.html
+- HTML headless: lily-design-system-html-headless/components/option.html
 - HTML option element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option

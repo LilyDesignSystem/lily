@@ -10,26 +10,26 @@ Contact <joel@joelparkerhenderson.com>
 
 Batteries-included web examples for HTML, Svelte, React, Vue, Blazor:
 
-- [HTML JavaScript examples](lily-html-javascript-examples):
-- [Svelte SvelteKit examples](lily-svelte-sveltekit-examples)
-- [React Next.js examples](lily-react-next-examples)
-- [Vue Nuxt.js examples](lily-vue-nuxt-examples)
-- [Blazor Web examples](lily-blazor-web-examples)
+- [HTML JavaScript examples](lily-design-system-html-javascript-examples):
+- [Svelte SvelteKit examples](lily-design-system-svelte-sveltekit-examples)
+- [React Next.js examples](lily-design-system-react-next-examples)
+- [Vue Nuxt.js examples](lily-design-system-vue-nuxt-examples)
+- [Blazor Web examples](lily-design-system-blazor-web-examples)
 
 Headless versions if you want to use components with all your own styles:
 
-- [HTML headless](lily-html-headless)
-- [Svelte headless](lily-svelte-headless)
-- [Blazor headless](lily-blazor-headless)
-- [React headless](lily-react-headless)
-- [Vue headless](lily-vue-headless)
+- [HTML headless](lily-design-system-html-headless)
+- [Svelte headless](lily-design-system-svelte-headless)
+- [Blazor headless](lily-design-system-blazor-headless)
+- [React headless](lily-design-system-react-headless)
+- [Vue headless](lily-design-system-vue-headless)
 
 ## Components
 
 - [accordion-nav](components/accordion-nav): an accordion navigation area for collapsible accordion information
 - [accordion-list](components/accordion-list): an accordion ordered list of list items
 - [accordion-list-item](components/accordion-list-item): an accordion list item
-- [accordion-link](components/accordion-list-item): an accordion link
+- [accordion-link](components/accordion-link): an accordion link
 - [action-link](components/action-link): a hyperlink styled as an action trigger
 - [ai-label](components/ai-label): an indicator of AI instances that is a pathway to AI explainability
 - [alert-dialog](components/alert-dialog): a modal dialog for urgent messages requiring user acknowledgment
@@ -212,7 +212,7 @@ Headless versions if you want to use components with all your own styles:
 - [pagination-nav](components/pagination-nav): an ordered list of page navigation links
 - [pagination-list](components/pagination-list): an ordered list of page navigation links
 - [pagination-list-item](components/pagination-list-item): a pagination list item
-- [pagination-link](components/pagination-list-item): a pagination link, such as to a web page in a sequence of web pages
+- [pagination-link](components/pagination-link): a pagination link, such as to a web page in a sequence of web pages
 - [panel](components/panel): a generic content panel with optional heading
 - [person](components/person): a person component that contains other person-related information
 - [password-input](components/password-input): an input for entering a password with obscured text
@@ -410,6 +410,6 @@ Headless versions if you want to use components with all your own styles:
 - Package: lily
 - Version: 0.2.0
 - Created: 2025-08-09T21:09:52Z
-- Updated: 2026-03-08T00:00:00Z
+- Updated: 2026-03-15T00:00:00Z
 - License: MIT or Apache-2.0 or GPL-2.0 or GPL-3.0 or contact us for more
 - Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)

@@ -52,5 +52,5 @@
 
 - Documentation: index.md
 - CSS class: .red-amber-green-picker in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/red-amber-green-picker.html
+- HTML headless: lily-design-system-html-headless/components/red-amber-green-picker.html
 - RAG Status: https://en.wikipedia.org/wiki/Traffic_light_rating_system

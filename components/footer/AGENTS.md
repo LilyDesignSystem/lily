@@ -36,4 +36,4 @@
 
 - Documentation: index.md
 - CSS class: .footer in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/footer.html
+- HTML headless: lily-design-system-html-headless/components/footer.html

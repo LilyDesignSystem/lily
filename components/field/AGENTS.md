@@ -46,6 +46,6 @@
 
 - Documentation: index.md
 - CSS class: .field in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/field.html
+- HTML headless: lily-design-system-html-headless/components/field.html
 - WAI Forms Tutorial: https://www.w3.org/WAI/tutorials/forms/
 - WAI-ARIA Error Handling: https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA21

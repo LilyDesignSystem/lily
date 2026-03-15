@@ -45,5 +45,5 @@
 
 - Documentation: index.md
 - CSS class: .united-kingdom-national-health-service-number-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/united-kingdom-national-health-service-number-view.html
+- HTML headless: lily-design-system-html-headless/components/united-kingdom-national-health-service-number-view.html
 - NHS Number: https://www.nhs.uk/using-the-nhs/about-the-nhs/what-is-an-nhs-number/

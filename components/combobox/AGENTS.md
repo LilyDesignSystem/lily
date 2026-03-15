@@ -53,5 +53,5 @@
 
 - Documentation: index.md
 - CSS class: .combobox in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/combobox.html
+- HTML headless: lily-design-system-html-headless/components/combobox.html
 - WAI-ARIA Combobox Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/combobox/

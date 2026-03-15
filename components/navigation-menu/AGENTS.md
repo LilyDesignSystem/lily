@@ -40,6 +40,6 @@
 
 - Documentation: index.md
 - CSS class: .navigation-menu in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/navigation-menu.html
+- HTML headless: lily-design-system-html-headless/components/navigation-menu.html
 - WAI-ARIA Navigation Landmark: https://www.w3.org/TR/wai-aria-1.2/#navigation
 - WAI-ARIA Landmarks: https://www.w3.org/WAI/ARIA/apd/practices/landmark-regions/

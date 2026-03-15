@@ -55,7 +55,7 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-body-fat-as-percentage-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-body-fat-as-percentage-input.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-body-fat-as-percentage-input.html
 - HTML number input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
 - WAI-ARIA spinbutton role: https://www.w3.org/TR/wai-aria-1.2/#spinbutton
 - American Council on Exercise - Body Fat Percentages: https://www.acefitness.org/resources/everyone/tools-calculators/percent-body-fat-calculator/

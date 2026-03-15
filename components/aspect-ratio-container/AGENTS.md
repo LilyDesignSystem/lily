@@ -42,4 +42,4 @@
 
 - Documentation: index.md
 - CSS class: .aspect-ratio-container in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/aspect-ratio-container.html
+- HTML headless: lily-design-system-html-headless/components/aspect-ratio-container.html

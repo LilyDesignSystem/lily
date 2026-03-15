@@ -49,4 +49,4 @@
 
 - Documentation: index.md
 - CSS class: .card in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/card.html
+- HTML headless: lily-design-system-html-headless/components/card.html

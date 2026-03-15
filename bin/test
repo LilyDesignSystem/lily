@@ -39,11 +39,13 @@ repo_setup_exists_or_err "$top"
 ai_exists_or_err "$top"
 
 ## Test components
-for component in $("$top/bin/list-components"); do
+"$top/bin/list-components" | 
+while read -r component; do
     ai_exists_or_err "$top/components/$component"
 done
 
 ## Test implementations
-for implementation in $("$top/bin/list-implementations" | sort); do
+"$top/bin/list-implementations" | 
+while read -r implementation; do 
     ai_exists_or_err "$implementation"
 done

@@ -38,7 +38,7 @@
 
 - Documentation: index.md
 - CSS class: .sidebar in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/sidebar.html
+- HTML headless: lily-design-system-html-headless/components/sidebar.html
 - WAI-ARIA Complementary Role: https://www.w3.org/TR/wai-aria-1.2/#complementary
 - WAI-ARIA Landmark Regions: https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/
 - HTML `<aside>` element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside

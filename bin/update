@@ -19,16 +19,22 @@ improve every existing important file in every existing subdirectory:
 - plan.md
 - tasks.md
 
+Important directories:
+
+- bin
 - components
-- lily-blazor-headless
-- lily-blazor-web-examples
-- lily-html-headless
-- lily-html-javascript-examples
-- lily-react-headless
-- lily-react-next-examples
-- lily-svelte-headless
-- lily-svelte-sveltekit-examples
-- lily-vue-headless
-- lily-vue-nuxt-examples
+
+Subproject directories:
+
+- lily-design-system-blazor-headless
+- lily-design-system-blazor-web-examples
+- lily-design-system-html-headless
+- lily-design-system-html-javascript-examples
+- lily-design-system-react-headless
+- lily-design-system-react-next-examples
+- lily-design-system-svelte-headless
+- lily-design-system-svelte-sveltekit-examples
+- lily-design-system-vue-headless
+- lily-design-system-vue-nuxt-examples
 
 "

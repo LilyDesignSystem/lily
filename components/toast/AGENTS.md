@@ -46,7 +46,7 @@
 
 - Documentation: index.md
 - CSS class: .toast in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/toast.html
+- HTML headless: lily-design-system-html-headless/components/toast.html
 - WAI-ARIA Alert Role: https://www.w3.org/TR/wai-aria-1.2/#alert
 - WAI-ARIA Status Role: https://www.w3.org/TR/wai-aria-1.2/#status
 - WAI-ARIA Live Regions: https://www.w3.org/TR/wai-aria-1.2/#aria-live

@@ -50,4 +50,4 @@
 
 - Documentation: index.md
 - CSS class: .task-bar-button in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/task-bar-button.html
+- HTML headless: lily-design-system-html-headless/components/task-bar-button.html

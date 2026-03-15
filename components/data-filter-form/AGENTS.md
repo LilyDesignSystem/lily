@@ -40,6 +40,6 @@
 
 - Documentation: index.md
 - CSS class: .data-filter-form in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/data-filter-form.html
+- HTML headless: lily-design-system-html-headless/components/data-filter-form.html
 - WAI-ARIA Landmark Roles: https://www.w3.org/WAI/ARIA/apd/practices/landmark-regions/
 - ARIA search role: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/search_role

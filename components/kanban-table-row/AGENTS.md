@@ -40,5 +40,5 @@ Standard table row keyboard interactions.
 
 - Documentation: index.md
 - CSS class: .kanban-table-row in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/kanban-table-row.html
+- HTML headless: lily-design-system-html-headless/components/kanban-table-row.html
 - MDN tr element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr

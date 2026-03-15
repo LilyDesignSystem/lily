@@ -47,4 +47,4 @@
 
 - Documentation: index.md
 - CSS class: .contents-list-item in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/contents-list-item.html
+- HTML headless: lily-design-system-html-headless/components/contents-list-item.html

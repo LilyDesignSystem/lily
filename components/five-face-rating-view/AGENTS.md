@@ -45,5 +45,5 @@
 
 - Documentation: index.md
 - CSS class: .five-face-rating-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/five-face-rating-view.html
+- HTML headless: lily-design-system-html-headless/components/five-face-rating-view.html
 - WAI-ARIA `img` role: https://www.w3.org/WAI/ARIA/apd/roles/img/

@@ -43,5 +43,5 @@
 
 - Documentation: index.md
 - CSS class: .red-amber-green-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/red-amber-green-view.html
+- HTML headless: lily-design-system-html-headless/components/red-amber-green-view.html
 - WAI-ARIA status role: https://www.w3.org/TR/wai-aria-1.2/#status

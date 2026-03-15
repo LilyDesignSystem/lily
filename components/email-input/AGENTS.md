@@ -45,5 +45,5 @@
 
 - Documentation: index.md
 - CSS class: .email-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/email-input.html
+- HTML headless: lily-design-system-html-headless/components/email-input.html
 - MDN `<input type="email">`: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email

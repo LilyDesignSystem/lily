@@ -9,7 +9,7 @@ const TOP = __dirname;
 // Subproject definitions
 const subprojects = [
   {
-    dir: "lily-html-headless",
+    dir: "lily-design-system-html-headless",
     title: "Lily Design System — HTML Headless",
     framework: "HTML",
     tech: "Plain HTML + vanilla JavaScript",
@@ -20,7 +20,7 @@ const subprojects = [
     type: "headless",
   },
   {
-    dir: "lily-svelte-headless",
+    dir: "lily-design-system-svelte-headless",
     title: "Lily Design System — Svelte Headless",
     framework: "Svelte",
     tech: "Svelte 5 with runes + TypeScript",
@@ -31,7 +31,7 @@ const subprojects = [
     type: "headless",
   },
   {
-    dir: "lily-react-headless",
+    dir: "lily-design-system-react-headless",
     title: "Lily Design System — React Headless",
     framework: "React",
     tech: "React 19 + TypeScript",
@@ -42,7 +42,7 @@ const subprojects = [
     type: "headless",
   },
   {
-    dir: "lily-vue-headless",
+    dir: "lily-design-system-vue-headless",
     title: "Lily Design System — Vue Headless",
     framework: "Vue",
     tech: "Vue 3 Composition API + TypeScript",
@@ -53,7 +53,7 @@ const subprojects = [
     type: "headless",
   },
   {
-    dir: "lily-blazor-headless",
+    dir: "lily-design-system-blazor-headless",
     title: "Lily Design System — Blazor Headless",
     framework: "Blazor",
     tech: "Blazor .NET 9 + C#",
@@ -64,7 +64,7 @@ const subprojects = [
     type: "headless",
   },
   {
-    dir: "lily-html-javascript-examples",
+    dir: "lily-design-system-html-javascript-examples",
     title: "Lily Design System — HTML JavaScript Examples",
     framework: "HTML",
     tech: "Plain HTML + vanilla JavaScript with simple styling",
@@ -75,7 +75,7 @@ const subprojects = [
     type: "examples",
   },
   {
-    dir: "lily-svelte-sveltekit-examples",
+    dir: "lily-design-system-svelte-sveltekit-examples",
     title: "Lily Design System — Svelte SvelteKit Examples",
     framework: "Svelte",
     tech: "SvelteKit + Svelte 5 with simple styling",
@@ -86,7 +86,7 @@ const subprojects = [
     type: "examples",
   },
   {
-    dir: "lily-react-next-examples",
+    dir: "lily-design-system-react-next-examples",
     title: "Lily Design System — React Next.js Examples",
     framework: "React",
     tech: "Next.js 14 + React 19 with simple styling",
@@ -97,7 +97,7 @@ const subprojects = [
     type: "examples",
   },
   {
-    dir: "lily-vue-nuxt-examples",
+    dir: "lily-design-system-vue-nuxt-examples",
     title: "Lily Design System — Vue Nuxt.js Examples",
     framework: "Vue",
     tech: "Nuxt 3 + Vue 3 with simple styling",
@@ -108,7 +108,7 @@ const subprojects = [
     type: "examples",
   },
   {
-    dir: "lily-blazor-web-examples",
+    dir: "lily-design-system-blazor-web-examples",
     title: "Lily Design System — Blazor Web Examples",
     framework: "Blazor",
     tech: "Blazor Web App .NET 9 with simple styling",

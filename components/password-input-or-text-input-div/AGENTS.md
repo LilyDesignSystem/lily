@@ -52,6 +52,6 @@
 
 - Documentation: index.md
 - CSS class: .password-input-or-text-input-div in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/password-input-or-text-input-div.html
+- HTML headless: lily-design-system-html-headless/components/password-input-or-text-input-div.html
 - HTML password input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password
 - WAI-ARIA Button Pattern (toggle): https://www.w3.org/WAI/ARIA/apg/patterns/button/

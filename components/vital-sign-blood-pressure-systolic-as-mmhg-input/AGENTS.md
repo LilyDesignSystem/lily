@@ -55,7 +55,7 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-blood-pressure-systolic-as-mmhg-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-blood-pressure-systolic-as-mmhg-input.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-blood-pressure-systolic-as-mmhg-input.html
 - HTML number input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
 - WAI-ARIA spinbutton role: https://www.w3.org/TR/wai-aria-1.2/#spinbutton
 - American Heart Association - Understanding Blood Pressure Readings: https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings

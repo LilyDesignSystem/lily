@@ -48,6 +48,6 @@
 
 - Documentation: index.md
 - CSS class: .scroll-area in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/scroll-area.html
+- HTML headless: lily-design-system-html-headless/components/scroll-area.html
 - WAI-ARIA Region Role: https://www.w3.org/TR/wai-aria-1.2/#region
 - WCAG 2.1 Reflow: https://www.w3.org/WAI/WCAG21/Understanding/reflow.html

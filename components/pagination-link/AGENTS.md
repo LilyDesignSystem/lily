@@ -51,4 +51,4 @@
 
 - Documentation: index.md
 - CSS class: .pagination-link in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/pagination-link.html
+- HTML headless: lily-design-system-html-headless/components/pagination-link.html

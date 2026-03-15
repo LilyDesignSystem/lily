@@ -52,6 +52,6 @@
 
 - Documentation: index.md
 - CSS class: .sheet in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/sheet.html
+- HTML headless: lily-design-system-html-headless/components/sheet.html
 - WAI-ARIA Dialog (Modal) Pattern: https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/
 - WAI-ARIA Authoring Practices - Dialog: https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/examples/dialog/

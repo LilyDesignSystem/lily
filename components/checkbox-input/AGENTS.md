@@ -48,6 +48,6 @@
 
 - Documentation: index.md
 - CSS class: .checkbox-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/checkbox-input.html
+- HTML headless: lily-design-system-html-headless/components/checkbox-input.html
 - MDN checkbox input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
 - WAI-ARIA Checkbox Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/checkbox/

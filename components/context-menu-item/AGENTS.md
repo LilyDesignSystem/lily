@@ -51,5 +51,5 @@
 
 - Documentation: index.md
 - CSS class: .context-menu-item in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/context-menu-item.html
+- HTML headless: lily-design-system-html-headless/components/context-menu-item.html
 - WAI-ARIA Menu Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/menu/

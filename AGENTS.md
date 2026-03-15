@@ -2,40 +2,29 @@
 
 [CSS style sheet template](css-style-sheet-template.css)
 
-Subprojects for headless components:
+## Subprojects for headless components
 
-- [Lily Design System: HTML headless](lily-html-headless)
-- [Lily Design System: Svelte headless](lily-svelte-headless)
-- [Lily Design System: Blazor headless](lily-blazor-headless)
-- [Lily Design System: React headless](lily-react-headless)
-- [Lily Design System: Vue headless](lily-vue-headless)
+- [Lily Design System: HTML headless](lily-design-system-html-headless)
+- [Lily Design System: Svelte headless](lily-design-system-svelte-headless)
+- [Lily Design System: Blazor headless](lily-design-system-blazor-headless)
+- [Lily Design System: React headless](lily-design-system-react-headless)
+- [Lily Design System: Vue headless](lily-design-system-vue-headless)
 
-Subprojects for web app examples:
+## Subprojects for web app examples
 
-- [Lily Design System: HTML JavaScript examples](lily-html-javascript-examples)
-- [Lily Design System: Svelte SvelteKit examples](lily-svelte-sveltekit-examples)
-- [Lily Design System: Blazor Web examples](lily-blazor-web-examples)
-- [Lily Design System: React Next.js examples](lily-react-next-examples)
-- [Lily Design System: Vue Nuxt.js examples](lily-vue-nuxt-examples)
+- [Lily Design System: HTML JavaScript examples](lily-design-system-html-javascript-examples)
+- [Lily Design System: Svelte SvelteKit examples](lily-design-system-svelte-sveltekit-examples)
+- [Lily Design System: Blazor Web examples](lily-design-system-blazor-web-examples)
+- [Lily Design System: React Next.js examples](lily-design-system-react-next-examples)
+- [Lily Design System: Vue Nuxt.js examples](lily-design-system-vue-nuxt-examples)
 
-NHS UK Design System References:
-
-- [NHS UK - Design system](https://service-manual.nhs.uk/design-system)
-- [NHS UK - Design system - Styles - Focus State](https://service-manual.nhs.uk/design-system/styles/focus-state)
-- [NHS UK - Design system - Styles - Icons](https://service-manual.nhs.uk/design-system/styles/icons)
-- [NHS UK - Design system - Styles - Layout](https://service-manual.nhs.uk/design-system/styles/layout)
-- [NHS UK - Design system - Styles - Page Template](https://service-manual.nhs.uk/design-system/styles/page-template)
-- [NHS UK - Design system - Styles - Spacing](https://service-manual.nhs.uk/design-system/styles/spacing)
-- [NHS UK - Design system - Styles - Typography](https://service-manual.nhs.uk/design-system/styles/typography)
-- [NHS UK - Design system - Styles - Use Frutiger Font](https://service-manual.nhs.uk/design-system/styles/use-frutiger-font)
-- [NHS UK - Accessibility - Design](https://service-manual.nhs.uk/accessibility/design)
-- [NHS UK - NHS Identity - Identity Guidelines - Colours](https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/)
-
-Tools:
+## Tools
 
 - [list-components](bin/list-components)
-- [test-components](bin/test-components)
-- [test-implementations](bin/test-implementations)
+- [list-components](bin/list-implementations)
+- [test](bin/test)
+- [sync](bin/sync)
+- [git-subtree-push](bin/git-subtree-push)
 
 Color palette:
 
@@ -121,6 +110,7 @@ Files:
 - contents-nav = ContentsNav = a navigation landmark for a list of contents
 - contents-list = ContentsList = an ordered list of contents list item components
 - contents-list-item = ContentsListItem = one contents list item component linking to a page section
+- contents-link = ContentsLink = one contents link, such as to a page or page section
 - context-menu = ContextMenu = a menu that appears on right-click or long-press
 - context-menu-item = ContextMenuItem = one item in a context menu
 - currency-input = CurrencyInput = a locale-aware currency input with automatic formatting, symbols, separators
@@ -135,6 +125,7 @@ Files:
 - date-field = DateField = a structured field for entering date components
 - date-input = DateInput = an input for entering a date value <input type="date">
 - date-range = DateRange = a display of a start and end date range
+- date-time-now-input = DateTimeNowInput = an input for entering a date and time and "now" button <input type="date"><input type="time"><button type="button">
 - datetime-local-input = DatetimeLocalInput = an input for entering a date and time without time zone <input type="datetime-local">
 - details = Details = a disclosure widget that shows and hides content
 - dial = Dial = a rotary dial control for selecting a value

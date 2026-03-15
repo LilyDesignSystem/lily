@@ -42,6 +42,6 @@
 
 - Documentation: index.md
 - CSS class: .tel-link in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/tel-link.html
+- HTML headless: lily-design-system-html-headless/components/tel-link.html
 - MDN tel: links: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#linking_to_telephone_numbers
 - WAI-ARIA Link Role: https://www.w3.org/TR/wai-aria-1.2/#link

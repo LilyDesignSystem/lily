@@ -46,6 +46,6 @@
 
 - Documentation: index.md
 - CSS class: .image-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/image-input.html
+- HTML headless: lily-design-system-html-headless/components/image-input.html
 - MDN input type="image": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/image
 - HTML spec input type="image": https://html.spec.whatwg.org/multipage/input.html#image-button-state-(type=image)

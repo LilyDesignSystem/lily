@@ -59,6 +59,6 @@
 
 - Documentation: index.md
 - CSS class: .dial in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/dial.html
+- HTML headless: lily-design-system-html-headless/components/dial.html
 - WAI-ARIA Slider Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/slider/
 - WAI-ARIA slider role: https://www.w3.org/TR/wai-aria-1.2/#slider

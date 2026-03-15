@@ -38,5 +38,5 @@
 
 - Documentation: index.md
 - CSS class: .theme-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/theme-view.html
+- HTML headless: lily-design-system-html-headless/components/theme-view.html
 - WAI-ARIA Accessible Name: https://www.w3.org/TR/accname-1.2/

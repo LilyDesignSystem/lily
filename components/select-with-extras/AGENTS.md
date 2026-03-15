@@ -52,6 +52,6 @@
 
 - Documentation: index.md
 - CSS class: .select-with-extras in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/select-with-extras.html
+- HTML headless: lily-design-system-html-headless/components/select-with-extras.html
 - WAI-ARIA Listbox Pattern: https://www.w3.org/WAI/ARIA/apg/patterns/listbox/
 - HTML `<select>` element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select

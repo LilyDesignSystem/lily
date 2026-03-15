@@ -46,6 +46,6 @@ Standard text input keyboard interactions provided natively by `<input type="pas
 
 - Documentation: index.md
 - CSS class: .password-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/password-input.html
+- HTML headless: lily-design-system-html-headless/components/password-input.html
 - MDN input type="password": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password
 - HTML autocomplete attribute: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete

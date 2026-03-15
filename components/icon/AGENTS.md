@@ -43,6 +43,6 @@
 
 - Documentation: index.md
 - CSS class: .icon in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/icon.html
+- HTML headless: lily-design-system-html-headless/components/icon.html
 - WAI-ARIA img role: https://www.w3.org/TR/wai-aria-1.2/#img
 - WAI-ARIA Practices - Images: https://www.w3.org/WAI/tutorials/images/decorative/

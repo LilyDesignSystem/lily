@@ -55,7 +55,7 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-cholesterol-as-ldl-mmol-per-litre-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-cholesterol-as-ldl-mmol-per-litre-input.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-cholesterol-as-ldl-mmol-per-litre-input.html
 - HTML number input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
 - WAI-ARIA spinbutton role: https://www.w3.org/TR/wai-aria-1.2/#spinbutton
 - NHS - High Cholesterol: https://www.nhs.uk/conditions/high-cholesterol/

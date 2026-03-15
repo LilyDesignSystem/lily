@@ -35,5 +35,5 @@
 
 - Documentation: index.md
 - CSS class: .hint in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/hint.html
+- HTML headless: lily-design-system-html-headless/components/hint.html
 - WAI Forms Tutorial - Instructions: https://www.w3.org/WAI/tutorials/forms/instructions/

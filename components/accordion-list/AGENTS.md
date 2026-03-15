@@ -30,6 +30,6 @@
 
 - Documentation: index.md
 - CSS class: .accordion-list in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/accordion-list.html
+- HTML headless: lily-design-system-html-headless/components/accordion-list.html
 - WAI-ARIA Accordion Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/accordion/
 - HTML `<ol>` element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol

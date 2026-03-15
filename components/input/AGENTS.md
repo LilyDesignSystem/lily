@@ -42,6 +42,6 @@
 
 - Documentation: index.md
 - CSS class: .input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/input.html
+- HTML headless: lily-design-system-html-headless/components/input.html
 - MDN Input element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 - WAI-ARIA Forms: https://www.w3.org/WAI/tutorials/forms/

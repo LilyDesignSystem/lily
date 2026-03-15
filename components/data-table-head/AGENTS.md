@@ -41,6 +41,6 @@
 
 - Documentation: index.md
 - CSS class: .data-table-head in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/data-table-head.html
+- HTML headless: lily-design-system-html-headless/components/data-table-head.html
 - WAI-ARIA Table Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/table/
 - WAI Tutorial on Tables: https://www.w3.org/WAI/tutorials/tables/

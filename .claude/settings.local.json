@@ -49,13 +49,13 @@
       "Bash(cd /Users/jph/git/lilydesignsystem/lily/components/password-input && ln -s index.md README.md)",
       "Bash(find /Users/jph/git/lilydesignsystem/lily -path \"*/PasswordInputDiv*\" -o -path \"*/password-input-div*\" 2>/dev/null | grep -v node_modules | grep -v \".git/\" | head -30)",
       "Bash(cd /Users/jph/git/lilydesignsystem/lily/components && mv password-input-div password-input-or-text-input-div)",
-      "Bash(ls -la /Users/jph/git/lilydesignsystem/lily-svelte-headless/components/PasswordInput*)",
-      "Bash(cd /Users/jph/git/lilydesignsystem/lily-react-headless && npx vitest run components/PasswordInputOrTextInputDiv.test.tsx 2>&1)",
+      "Bash(ls -la /Users/jph/git/lilydesignsystem/lily-design-system-svelte-headless/components/PasswordInput*)",
+      "Bash(cd /Users/jph/git/lilydesignsystem/lily-design-system-react-headless && npx vitest run components/PasswordInputOrTextInputDiv.test.tsx 2>&1)",
       "Bash(ls -d vital-sign-sleep-score-as-0-to-100-* vital-sign-total-sleep-time-as-min-per-day-* 2>&1)",
       "Bash(ls -d /Users/jph/git/lilydesignsystem/lily-*-headless/)",
-      "Bash(ls /Users/jph/git/lilydesignsystem/lily-svelte-headless/components/*.svelte | wc -l)",
+      "Bash(ls /Users/jph/git/lilydesignsystem/lily-design-system-svelte-headless/components/*.svelte | wc -l)",
       "Bash(cd /Users/jph/git/lilydesignsystem/lily-rhtml-headless && node generate-components.js)",
-      "Bash(cd /Users/jph/git/lilydesignsystem/lily && grep '^\\\\.' css-style-sheet-template.css | sed 's/^\\\\.//; s/ {//' | grep -v '^\\\\-' | sort > /tmp/css-names.txt && ls lily-html-headless/components/*.html | xargs -I{} basename {} .html | sort > /tmp/html-names.txt && diff /tmp/css-names.txt /tmp/html-names.txt)",
+      "Bash(cd /Users/jph/git/lilydesignsystem/lily && grep '^\\\\.' css-style-sheet-template.css | sed 's/^\\\\.//; s/ {//' | grep -v '^\\\\-' | sort > /tmp/css-names.txt && ls lily-design-system-html-headless/components/*.html | xargs -I{} basename {} .html | sort > /tmp/html-names.txt && diff /tmp/css-names.txt /tmp/html-names.txt)",
       "Bash(ls -d components/*/ | xargs -I{} basename {} | sort > /tmp/component-dirs.txt && diff /tmp/component-dirs.txt /tmp/html-names.txt)",
       "Bash(node generate-components.js)",
       "Bash(node generate-tests.js)",
@@ -64,7 +64,9 @@
       "Bash(bin/test 2>&1)",
       "Bash(for d in /Users/jph/git/lilydesignsystem/lily-r*/; do echo \"=== $\\(basename $d\\) ===\"; ls -la \"$d\" | grep -E '\\(index\\\\.md|README\\\\.md|AGENTS\\\\.md|CLAUDE\\\\.md|plan\\\\.md|tasks\\\\.md\\)'; echo; done)",
       "Bash(node upgrade-component-docs.js)",
-      "Bash(node upgrade-subproject-docs.js)"
+      "Bash(node upgrade-subproject-docs.js)",
+      "Bash(ls:*)",
+      "Bash(ln:*)"
     ]
   }
 }

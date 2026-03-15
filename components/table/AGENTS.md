@@ -51,6 +51,6 @@
 
 - Documentation: index.md
 - CSS class: .table in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/table.html
+- HTML headless: lily-design-system-html-headless/components/table.html
 - WAI-ARIA Table Role: https://www.w3.org/WAI/ARIA/apd/patterns/table/
 - HTML Table Element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table

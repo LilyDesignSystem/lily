@@ -46,6 +46,6 @@
 
 - Documentation: index.md
 - CSS class: .progress-circle in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/progress-circle.html
+- HTML headless: lily-design-system-html-headless/components/progress-circle.html
 - WAI-ARIA Meter Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/meter/
 - MDN `role="Progress"`: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Progress_role

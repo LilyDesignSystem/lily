@@ -48,7 +48,7 @@
 
 - Documentation: index.md
 - CSS class: .currency-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/currency-input.html
+- HTML headless: lily-design-system-html-headless/components/currency-input.html
 - HTML text input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text
 - Intl.NumberFormat: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
 - ISO 4217 Currency Codes: https://www.iso.org/iso-4217-currency-codes.html

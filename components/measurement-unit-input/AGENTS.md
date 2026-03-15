@@ -50,4 +50,4 @@
 
 - Documentation: index.md
 - CSS class: .measurement-unit-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/measurement-unit-input.html
+- HTML headless: lily-design-system-html-headless/components/measurement-unit-input.html

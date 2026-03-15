@@ -40,6 +40,6 @@
 
 - Documentation: index.md
 - CSS class: .information-callout in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/information-callout.html
+- HTML headless: lily-design-system-html-headless/components/information-callout.html
 - WAI-ARIA note role: https://www.w3.org/TR/wai-aria-1.2/#note
 - HTML aside element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside

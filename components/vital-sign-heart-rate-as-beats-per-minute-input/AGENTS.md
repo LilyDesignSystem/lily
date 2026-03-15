@@ -55,7 +55,7 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-heart-rate-as-beats-per-minute-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-heart-rate-as-beats-per-minute-input.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-heart-rate-as-beats-per-minute-input.html
 - HTML number input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
 - WAI-ARIA spinbutton role: https://www.w3.org/TR/wai-aria-1.2/#spinbutton
 - American Heart Association - Target Heart Rates: https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates

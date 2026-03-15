@@ -52,5 +52,5 @@ Standard number input keyboard interactions provided natively by `<input type="n
 
 - Documentation: index.md
 - CSS class: .vital-sign-total-sleep-time-as-min-per-day-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-total-sleep-time-as-min-per-day-input.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-total-sleep-time-as-min-per-day-input.html
 - MDN input type="number": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number

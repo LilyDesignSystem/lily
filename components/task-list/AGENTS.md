@@ -52,5 +52,5 @@
 
 - Documentation: index.md
 - CSS class: .task-list in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/task-list.html
+- HTML headless: lily-design-system-html-headless/components/task-list.html
 - WAI-ARIA list role: https://www.w3.org/TR/wai-aria-1.2/#list

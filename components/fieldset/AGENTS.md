@@ -36,5 +36,5 @@
 
 - Documentation: index.md
 - CSS class: .fieldset in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/fieldset.html
+- HTML headless: lily-design-system-html-headless/components/fieldset.html
 - HTML Specification fieldset: https://html.spec.whatwg.org/multipage/form-elements.html#the-fieldset-element

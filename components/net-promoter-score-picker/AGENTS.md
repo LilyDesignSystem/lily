@@ -58,6 +58,6 @@
 
 - Documentation: index.md
 - CSS class: .net-promoter-score-picker in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/net-promoter-score-picker.html
+- HTML headless: lily-design-system-html-headless/components/net-promoter-score-picker.html
 - Net Promoter Score: https://en.wikipedia.org/wiki/Net_promoter_score
 - WAI-ARIA Radiogroup Role: https://www.w3.org/TR/wai-aria-1.2/#radiogroup

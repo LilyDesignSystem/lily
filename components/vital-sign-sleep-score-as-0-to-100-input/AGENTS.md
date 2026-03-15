@@ -52,5 +52,5 @@ Standard number input keyboard interactions provided natively by `<input type="n
 
 - Documentation: index.md
 - CSS class: .vital-sign-sleep-score-as-0-to-100-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-sleep-score-as-0-to-100-input.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-sleep-score-as-0-to-100-input.html
 - MDN input type="number": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number

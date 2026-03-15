@@ -51,5 +51,5 @@
 
 - Documentation: index.md
 - CSS class: .accordion-link in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/accordion-link.html
+- HTML headless: lily-design-system-html-headless/components/accordion-link.html
 - WAI-ARIA Accordion Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/accordion/

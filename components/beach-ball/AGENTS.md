@@ -48,6 +48,6 @@
 
 - Documentation: index.md
 - CSS class: .beach-ball in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/beach-ball.html
+- HTML headless: lily-design-system-html-headless/components/beach-ball.html
 - WAI-ARIA Status Role: https://www.w3.org/TR/wai-aria-1.2/#status
 - ARIA aria-busy: https://www.w3.org/TR/wai-aria-1.2/#aria-busy

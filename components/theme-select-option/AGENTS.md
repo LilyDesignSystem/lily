@@ -35,6 +35,6 @@
 
 - Documentation: index.md
 - CSS class: .theme-select-option in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/theme-select-option.html
+- HTML headless: lily-design-system-html-headless/components/theme-select-option.html
 - MDN option element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option
 - MDN select element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select

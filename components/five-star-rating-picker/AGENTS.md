@@ -59,5 +59,5 @@
 
 - Documentation: index.md
 - CSS class: .five-star-rating-picker in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/five-star-rating-picker.html
+- HTML headless: lily-design-system-html-headless/components/five-star-rating-picker.html
 - WAI-ARIA Radio Group Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/radiobutton/

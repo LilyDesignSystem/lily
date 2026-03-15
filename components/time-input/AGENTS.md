@@ -42,5 +42,5 @@
 
 - Documentation: index.md
 - CSS class: .time-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/time-input.html
+- HTML headless: lily-design-system-html-headless/components/time-input.html
 - MDN input type="time": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/time

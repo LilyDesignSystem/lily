@@ -37,6 +37,6 @@
 
 - Documentation: index.md
 - CSS class: .timeline-list in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/timeline-list.html
+- HTML headless: lily-design-system-html-headless/components/timeline-list.html
 - HTML `<time>` element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time
 - WAI-ARIA list role: https://www.w3.org/TR/wai-aria-1.2/#list

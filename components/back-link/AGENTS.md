@@ -46,4 +46,4 @@
 
 - Documentation: index.md
 - CSS class: .back-link in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/back-link.html
+- HTML headless: lily-design-system-html-headless/components/back-link.html

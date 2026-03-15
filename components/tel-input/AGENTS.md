@@ -51,5 +51,5 @@
 
 - Documentation: index.md
 - CSS class: .tel-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/tel-input.html
+- HTML headless: lily-design-system-html-headless/components/tel-input.html
 - HTML tel input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel

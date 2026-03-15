@@ -45,6 +45,6 @@
 
 - Documentation: index.md
 - CSS class: .toggle-group in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/toggle-group.html
+- HTML headless: lily-design-system-html-headless/components/toggle-group.html
 - WAI-ARIA group role: https://www.w3.org/TR/wai-aria-1.2/#group
 - WAI-ARIA Button Pattern (toggle): https://www.w3.org/WAI/ARIA/apg/patterns/button/

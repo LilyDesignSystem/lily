@@ -42,4 +42,4 @@
 
 - Documentation: index.md
 - CSS class: .character in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/character.html
+- HTML headless: lily-design-system-html-headless/components/character.html

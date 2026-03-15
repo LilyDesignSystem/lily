@@ -51,6 +51,6 @@
 
 - Documentation: index.md
 - CSS class: .radio-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/radio-input.html
+- HTML headless: lily-design-system-html-headless/components/radio-input.html
 - WAI-ARIA Radio Group Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/radiobutton/
 - MDN input type="radio": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio

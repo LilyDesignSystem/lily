@@ -58,5 +58,5 @@
 
 - Documentation: index.md
 - CSS class: .angle-slider-range-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/angle-slider-range-input.html
+- HTML headless: lily-design-system-html-headless/components/angle-slider-range-input.html
 - WAI-ARIA Slider Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/slider/

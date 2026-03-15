@@ -43,6 +43,6 @@
 
 - Documentation: index.md
 - CSS class: .medical-record-red-box in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/medical-record-red-box.html
+- HTML headless: lily-design-system-html-headless/components/medical-record-red-box.html
 - WAI-ARIA alert role: https://www.w3.org/TR/wai-aria-1.2/#alert
 - WAI-ARIA Alert Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/alert/

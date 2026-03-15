@@ -40,5 +40,5 @@ Standard table cell keyboard interactions.
 
 - Documentation: index.md
 - CSS class: .table-data in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/table-data.html
+- HTML headless: lily-design-system-html-headless/components/table-data.html
 - MDN td element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td

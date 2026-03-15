@@ -44,6 +44,6 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-heart-rate-variability-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-heart-rate-variability-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-heart-rate-variability-view.html
 - WAI-ARIA img role: https://www.w3.org/WAI/ARIA/apd/roles/img/
 - Harvard Health - Heart Rate Variability: https://www.health.harvard.edu/blog/heart-rate-variability-new-way-track-well-2017112212789

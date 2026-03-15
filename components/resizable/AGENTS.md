@@ -41,6 +41,6 @@
 
 - Documentation: index.md
 - CSS class: .resizable in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/resizable.html
+- HTML headless: lily-design-system-html-headless/components/resizable.html
 - WAI-ARIA Region Role: https://www.w3.org/TR/wai-aria-1.2/#region
 - WAI-ARIA Authoring Practices - Window Splitter: https://www.w3.org/WAI/ARIA/apg/patterns/windowsplitter/

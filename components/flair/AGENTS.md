@@ -37,4 +37,4 @@
 
 - Documentation: index.md
 - CSS class: .flair in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/flair.html
+- HTML headless: lily-design-system-html-headless/components/flair.html

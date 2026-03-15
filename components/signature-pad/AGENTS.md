@@ -38,5 +38,5 @@
 
 - Documentation: index.md
 - CSS class: .signature-pad in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/signature-pad.html
+- HTML headless: lily-design-system-html-headless/components/signature-pad.html
 - WAI-ARIA application Role: https://www.w3.org/TR/wai-aria-1.2/#application

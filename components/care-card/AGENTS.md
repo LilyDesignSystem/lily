@@ -50,5 +50,5 @@
 
 - Documentation: index.md
 - CSS class: .care-card in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/care-card.html
+- HTML headless: lily-design-system-html-headless/components/care-card.html
 - NHS England Care Cards: https://service-manual.nhs.uk/design-system/components/care-cards

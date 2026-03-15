@@ -26,6 +26,18 @@
 - `children`: slot (required) -- layout section elements to render inside the container
 - `...restProps`: unknown -- additional attributes spread onto the `<div>` element
 
+### Grail layout pattern: GrailLayout → GrailLayoutTop, GrailLayoutLeft, GrailLayoutCenter, GrailLayoutRight, GrailLayoutBottom
+
+```tsx
+<GrailLayout>
+  <GrailLayoutTopHeader>…</GrailLayoutTopHeader>
+  <GrailLayoutLeftAside>…</GrailLayoutLeftAside>
+  <GrailLayoutCenterMain>…</GrailLayoutCenterMain>
+  <GrailLayoutRightAside>…</GrailLayoutRightAside>
+  <GrailLayoutBottomFooter>…</GrailLayoutBottomFooter>
+</GrailLayout>
+```
+
 ## Acceptance Criteria
 
 - [ ] Renders <div> element with class="grail-layout"
@@ -36,6 +48,6 @@
 
 - Documentation: index.md
 - CSS class: .grail-layout in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/grail-layout.html
+- HTML headless: lily-design-system-html-headless/components/grail-layout.html
 - CSS Grid Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 - Holy Grail Layout: https://en.wikipedia.org/wiki/Holy_grail_(web_design)

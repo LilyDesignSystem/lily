@@ -37,5 +37,5 @@
 
 - Documentation: index.md
 - CSS class: .tool-bar-button in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/tool-bar-button.html
+- HTML headless: lily-design-system-html-headless/components/tool-bar-button.html
 - WAI-ARIA Toolbar Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/toolbar/

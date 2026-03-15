@@ -52,5 +52,5 @@
 
 - Documentation: index.md
 - CSS class: .expander in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/expander.html
+- HTML headless: lily-design-system-html-headless/components/expander.html
 - WAI-ARIA Disclosure Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/disclosure/

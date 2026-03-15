@@ -51,4 +51,4 @@
 
 - Documentation: index.md
 - CSS class: .call-to-action in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/call-to-action.html
+- HTML headless: lily-design-system-html-headless/components/call-to-action.html

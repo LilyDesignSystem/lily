@@ -45,7 +45,7 @@
 
 - Documentation: index.md
 - CSS class: .notification in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/notification.html
+- HTML headless: lily-design-system-html-headless/components/notification.html
 - WAI-ARIA alert role: https://www.w3.org/TR/wai-aria-1.2/#alert
 - WAI-ARIA status role: https://www.w3.org/TR/wai-aria-1.2/#status
 - WAI-ARIA Live Regions: https://www.w3.org/WAI/ARIA/apd/practices/live-regions/

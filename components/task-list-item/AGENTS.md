@@ -49,5 +49,5 @@
 
 - Documentation: index.md
 - CSS class: .task-list-item in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/task-list-item.html
+- HTML headless: lily-design-system-html-headless/components/task-list-item.html
 - MDN li element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li

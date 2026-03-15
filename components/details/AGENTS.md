@@ -45,7 +45,7 @@
 
 - Documentation: index.md
 - CSS class: .details in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/details.html
+- HTML headless: lily-design-system-html-headless/components/details.html
 - MDN details element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 - MDN summary element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary
 - WAI-ARIA Disclosure Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/disclosure/

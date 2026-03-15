@@ -47,6 +47,6 @@
 
 - Documentation: index.md
 - CSS class: .tooltip in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/tooltip.html
+- HTML headless: lily-design-system-html-headless/components/tooltip.html
 - WAI-ARIA Tooltip Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/tooltip/
 - MDN aria-describedby: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-describedby

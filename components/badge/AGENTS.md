@@ -46,4 +46,4 @@
 
 - Documentation: index.md
 - CSS class: .badge in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/badge.html
+- HTML headless: lily-design-system-html-headless/components/badge.html

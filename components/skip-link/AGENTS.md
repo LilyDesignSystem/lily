@@ -46,7 +46,7 @@
 
 - Documentation: index.md
 - CSS class: .skip-link in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/skip-link.html
+- HTML headless: lily-design-system-html-headless/components/skip-link.html
 - WCAG 2.1 Bypass Blocks: https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html
 - WAI-ARIA Authoring Practices - Skip Navigation: https://www.w3.org/WAI/ARIA/apg/practices/skip-nav/
 - WebAIM Skip Navigation Links: https://webaim.org/techniques/skipnav/

@@ -45,6 +45,6 @@
 
 - Documentation: index.md
 - CSS class: .meter in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/meter.html
+- HTML headless: lily-design-system-html-headless/components/meter.html
 - HTML meter element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter
 - WAI-ARIA meter role: https://www.w3.org/TR/wai-aria-1.2/#meter

@@ -47,5 +47,5 @@
 
 - Documentation: index.md
 - CSS class: .clipboard-copy-button in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/clipboard-copy-button.html
+- HTML headless: lily-design-system-html-headless/components/clipboard-copy-button.html
 - ClipboardCopyButton API: https://developer.mozilla.org/en-US/docs/Web/API/ClipboardCopyButton/writeText

@@ -48,6 +48,6 @@
 
 - Documentation: index.md
 - CSS class: .popover in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/popover.html
+- HTML headless: lily-design-system-html-headless/components/popover.html
 - WAI-ARIA Dialog Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/dialog/
 - WAI-ARIA dialog role: https://www.w3.org/TR/wai-aria-1.2/#dialog

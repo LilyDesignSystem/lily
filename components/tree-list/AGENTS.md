@@ -40,6 +40,6 @@
 
 - Documentation: index.md
 - CSS class: .tree-list in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/tree-list.html
+- HTML headless: lily-design-system-html-headless/components/tree-list.html
 - WAI-ARIA Tree View Pattern: https://www.w3.org/WAI/ARIA/apg/patterns/treeview/
 - WAI-ARIA tree role: https://www.w3.org/TR/wai-aria-1.2/#tree

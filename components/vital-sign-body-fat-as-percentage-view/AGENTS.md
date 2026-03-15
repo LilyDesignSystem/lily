@@ -44,6 +44,6 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-body-fat-as-percentage-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-body-fat-as-percentage-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-body-fat-as-percentage-view.html
 - WAI-ARIA img role: https://www.w3.org/WAI/ARIA/apd/roles/img/
 - American Council on Exercise - Body Fat Percentages: https://www.acefitness.org/resources/everyone/tools-calculators/percent-body-fat-calculator/

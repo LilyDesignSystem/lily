@@ -37,6 +37,6 @@
 
 - Documentation: index.md
 - CSS class: .theme-select in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/theme-select.html
+- HTML headless: lily-design-system-html-headless/components/theme-select.html
 - MDN select element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
 - WCAG 1.4.12 Text Spacing (theme customization): https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html

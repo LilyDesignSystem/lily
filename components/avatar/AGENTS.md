@@ -19,6 +19,23 @@
 
 - None -- this is a decorative/informational component, not interactive
 
+## components-helper/avatar.md
+
+Pattern: AvatarGroup → Avatar → AvatarImage, AvatarText
+
+```tsx
+<AvatarGroup>
+  <Avatar>
+    <AvatarImage>…</AvatarImage>
+    <AvatarText>…</AvatarText>
+  </Avatar>
+  <Avatar>
+    <AvatarImage>…</AvatarImage>
+    <AvatarText>…</AvatarText>
+  </Avatar>
+</AvatarGroup>
+```
+
 ## Acceptance Criteria
 
 - [ ] Renders <div> element with class="avatar"
@@ -32,5 +49,5 @@
 
 - Documentation: index.md
 - CSS class: .avatar in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/avatar.html
+- HTML headless: lily-design-system-html-headless/components/avatar.html
 - WAI-ARIA Img Role: https://www.w3.org/TR/wai-aria-1.2/#img

@@ -709,7 +709,7 @@ function generateAgentsMd(name, info, heading, sections, tag) {
   md += `\n## References\n\n`;
   md += `- Documentation: index.md\n`;
   md += `- CSS class: .${name} in css-style-sheet-template.css\n`;
-  md += `- HTML headless: lily-html-headless/components/${name}.html\n`;
+  md += `- HTML headless: lily-design-system-html-headless/components/${name}.html\n`;
   const refSection = sections["References"] || "";
   const refBullets = extractBullets(refSection);
   for (const b of refBullets) {

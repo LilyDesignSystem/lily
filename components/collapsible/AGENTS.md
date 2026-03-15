@@ -41,5 +41,5 @@
 
 - Documentation: index.md
 - CSS class: .collapsible in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/collapsible.html
+- HTML headless: lily-design-system-html-headless/components/collapsible.html
 - WAI-ARIA Disclosure Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/disclosure/

@@ -45,7 +45,7 @@
 
 - Documentation: index.md
 - CSS class: .summary-list-item in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/summary-list-item.html
+- HTML headless: lily-design-system-html-headless/components/summary-list-item.html
 - MDN dl element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl
 - MDN dt element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt
 - MDN dd element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd

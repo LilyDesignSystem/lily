@@ -25,6 +25,18 @@
 - `children`: slot (required) -- content to render inside the right aside
 - `...restProps`: unknown -- additional attributes spread onto the `<div>` element
 
+### Grail layout pattern: GrailLayout → GrailLayoutTop, GrailLayoutLeft, GrailLayoutCenter, GrailLayoutRight, GrailLayoutBottom
+
+```tsx
+<GrailLayout>
+  <GrailLayoutTopHeader>…</GrailLayoutTopHeader>
+  <GrailLayoutLeftAside>…</GrailLayoutLeftAside>
+  <GrailLayoutCenterMain>…</GrailLayoutCenterMain>
+  <GrailLayoutRightAside>…</GrailLayoutRightAside>
+  <GrailLayoutBottomFooter>…</GrailLayoutBottomFooter>
+</GrailLayout>
+```
+
 ## Acceptance Criteria
 
 - [ ] Renders <aside> element with class="grail-layout-right-aside"
@@ -35,5 +47,5 @@
 
 - Documentation: index.md
 - CSS class: .grail-layout-right-aside in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/grail-layout-right-aside.html
+- HTML headless: lily-design-system-html-headless/components/grail-layout-right-aside.html
 - CSS Grid Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout

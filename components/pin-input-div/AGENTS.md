@@ -55,5 +55,5 @@
 
 - Documentation: index.md
 - CSS class: .pin-input-div in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/pin-input-div.html
+- HTML headless: lily-design-system-html-headless/components/pin-input-div.html
 - WAI-ARIA Group Role: https://www.w3.org/TR/wai-aria-1.2/#group

@@ -56,6 +56,6 @@
 
 - Documentation: index.md
 - CSS class: .tree-nav in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/tree-nav.html
+- HTML headless: lily-design-system-html-headless/components/tree-nav.html
 - WAI-ARIA Tree View Pattern: https://www.w3.org/WAI/ARIA/apg/patterns/treeview/
 - WAI-ARIA Navigation Role: https://www.w3.org/TR/wai-aria-1.2/#navigation

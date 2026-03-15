@@ -41,5 +41,5 @@
 
 - Documentation: index.md
 - CSS class: .color-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/color-input.html
+- HTML headless: lily-design-system-html-headless/components/color-input.html
 - MDN `<input type="color">`: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color

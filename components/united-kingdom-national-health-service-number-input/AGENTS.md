@@ -49,5 +49,5 @@
 
 - Documentation: index.md
 - CSS class: .united-kingdom-national-health-service-number-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/united-kingdom-national-health-service-number-input.html
+- HTML headless: lily-design-system-html-headless/components/united-kingdom-national-health-service-number-input.html
 - NHS Number format: https://www.nhs.uk/nhs-services/online-services/find-nhs-number/

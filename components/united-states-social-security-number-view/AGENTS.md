@@ -45,5 +45,5 @@
 
 - Documentation: index.md
 - CSS class: .united-states-social-security-number-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/united-states-social-security-number-view.html
+- HTML headless: lily-design-system-html-headless/components/united-states-social-security-number-view.html
 - Social Security Number: https://www.ssa.gov/history/ssn/geocard.html

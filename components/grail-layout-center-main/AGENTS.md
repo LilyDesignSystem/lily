@@ -25,6 +25,18 @@
 - `children`: slot (required) -- content to render inside the center main section
 - `...restProps`: unknown -- additional attributes spread onto the `<div>` element
 
+### Grail layout pattern: GrailLayout → GrailLayoutTop, GrailLayoutLeft, GrailLayoutCenter, GrailLayoutRight, GrailLayoutBottom
+
+```tsx
+<GrailLayout>
+  <GrailLayoutTopHeader>…</GrailLayoutTopHeader>
+  <GrailLayoutLeftAside>…</GrailLayoutLeftAside>
+  <GrailLayoutCenterMain>…</GrailLayoutCenterMain>
+  <GrailLayoutRightAside>…</GrailLayoutRightAside>
+  <GrailLayoutBottomFooter>…</GrailLayoutBottomFooter>
+</GrailLayout>
+```
+
 ## Acceptance Criteria
 
 - [ ] Renders <main> element with class="grail-layout-center-main"
@@ -35,5 +47,5 @@
 
 - Documentation: index.md
 - CSS class: .grail-layout-center-main in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/grail-layout-center-main.html
+- HTML headless: lily-design-system-html-headless/components/grail-layout-center-main.html
 - CSS Grid Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout

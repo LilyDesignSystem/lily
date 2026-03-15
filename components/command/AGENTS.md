@@ -51,6 +51,6 @@
 
 - Documentation: index.md
 - CSS class: .command in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/command.html
+- HTML headless: lily-design-system-html-headless/components/command.html
 - WAI-ARIA Listbox Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/listbox/
 - WAI-ARIA Combobox Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/combobox/

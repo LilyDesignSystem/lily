@@ -36,6 +36,6 @@
 
 - Documentation: index.md
 - CSS class: .skeleton in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/skeleton.html
+- HTML headless: lily-design-system-html-headless/components/skeleton.html
 - WAI-ARIA `aria-busy`: https://www.w3.org/WAI/ARIA/apd/states/aria-busy/
 - MDN `aria-hidden`: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-hidden

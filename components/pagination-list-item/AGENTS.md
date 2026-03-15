@@ -40,4 +40,4 @@
 
 - Documentation: index.md
 - CSS class: .pagination-list-item in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/pagination-list-item.html
+- HTML headless: lily-design-system-html-headless/components/pagination-list-item.html

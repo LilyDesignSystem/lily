@@ -38,6 +38,6 @@
 
 - Documentation: index.md
 - CSS class: .ai-label in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/ai-label.html
+- HTML headless: lily-design-system-html-headless/components/ai-label.html
 - Carbon Design System AI Label: https://carbondesignsystem.com/components/ai-label/usage/
 - Carbon for AI Guidelines: https://carbondesignsystem.com/guidelines/carbon-for-ai/

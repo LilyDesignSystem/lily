@@ -44,6 +44,6 @@
 
 - Documentation: index.md
 - CSS class: .contents-nav in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/contents-nav.html
+- HTML headless: lily-design-system-html-headless/components/contents-nav.html
 - WAI-ARIA Navigation Landmark: https://www.w3.org/WAI/ARIA/apd/practices/landmark-regions/
 - MDN nav element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav

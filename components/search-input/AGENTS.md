@@ -46,6 +46,6 @@
 
 - Documentation: index.md
 - CSS class: .search-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/search-input.html
+- HTML headless: lily-design-system-html-headless/components/search-input.html
 - WAI-ARIA Search Role: https://www.w3.org/WAI/ARIA/apd/patterns/search/
 - MDN input type="search": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search

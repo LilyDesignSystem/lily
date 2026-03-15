@@ -46,6 +46,6 @@
 
 - Documentation: index.md
 - CSS class: .date-field in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/date-field.html
+- HTML headless: lily-design-system-html-headless/components/date-field.html
 - ARIA Error Handling: https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA21
 - WAI Forms Tutorial: https://www.w3.org/WAI/tutorials/forms/

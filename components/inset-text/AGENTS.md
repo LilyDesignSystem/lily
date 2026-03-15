@@ -37,7 +37,7 @@
 
 - Documentation: index.md
 - CSS class: .inset-text in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/inset-text.html
+- HTML headless: lily-design-system-html-headless/components/inset-text.html
 - WAI-ARIA Note Role: https://www.w3.org/TR/wai-aria-1.2/#note
 - GOV.UK Inset Text: https://design-system.service.gov.uk/components/inset-text/
 - NHS England Inset Text: https://service-manual.nhs.uk/design-system/components/inset-text

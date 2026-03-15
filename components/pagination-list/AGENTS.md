@@ -52,6 +52,6 @@
 
 - Documentation: index.md
 - CSS class: .pagination-list in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/pagination-list.html
+- HTML headless: lily-design-system-html-headless/components/pagination-list.html
 - WAI-ARIA Practices - Pagination: https://www.w3.org/WAI/ARIA/apd/patterns/navigation/
 - WAI-ARIA navigation role: https://www.w3.org/TR/wai-aria-1.2/#navigation

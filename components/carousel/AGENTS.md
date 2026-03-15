@@ -41,6 +41,6 @@
 
 - Documentation: index.md
 - CSS class: .carousel in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/carousel.html
+- HTML headless: lily-design-system-html-headless/components/carousel.html
 - WAI-ARIA Carousel Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/carousel/
 - WAI-ARIA Authoring Practices Carousel: https://www.w3.org/WAI/tutorials/carousels/

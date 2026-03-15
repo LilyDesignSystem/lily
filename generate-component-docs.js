@@ -81,7 +81,7 @@ for (const name of dirs) {
 ## References
 
 - CSS class: .${name} in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/${name}.html
+- HTML headless: lily-design-system-html-headless/components/${name}.html
 `;
     fs.writeFileSync(agentsPath, agentsMd, "utf8");
   }
@@ -106,8 +106,8 @@ Implement the ${heading} component: ${description}.
 ## Approach
 
 1. Create framework-agnostic component documentation in index.md
-2. Implement HTML headless component in lily-html-headless
-3. Implement Svelte headless component in lily-svelte-headless
+2. Implement HTML headless component in lily-design-system-html-headless
+3. Implement Svelte headless component in lily-design-system-svelte-headless
 4. Ensure WCAG 2.2 AAA accessibility compliance
 5. Create tests for each implementation
 

@@ -44,7 +44,7 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-waist-circumference-as-cm-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-waist-circumference-as-cm-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-waist-circumference-as-cm-view.html
 - WAI-ARIA img role: https://www.w3.org/WAI/ARIA/apd/roles/img/
 - NHS - Health risks of obesity: https://www.nhs.uk/conditions/obesity/
 - WHO - Waist Circumference and Waist-Hip Ratio: https://www.who.int/publications/i/item/9789241501491

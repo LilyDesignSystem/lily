@@ -40,4 +40,4 @@
 
 - Documentation: index.md
 - CSS class: .review-date in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/review-date.html
+- HTML headless: lily-design-system-html-headless/components/review-date.html

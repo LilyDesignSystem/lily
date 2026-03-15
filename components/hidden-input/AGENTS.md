@@ -33,5 +33,5 @@
 
 - Documentation: index.md
 - CSS class: .hidden-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/hidden-input.html
+- HTML headless: lily-design-system-html-headless/components/hidden-input.html
 - HTML hidden input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden

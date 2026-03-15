@@ -39,5 +39,5 @@
 
 - Documentation: index.md
 - CSS class: .tour-list in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/tour-list.html
+- HTML headless: lily-design-system-html-headless/components/tour-list.html
 - WAI-ARIA Dialog Pattern: https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/

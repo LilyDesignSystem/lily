@@ -49,5 +49,5 @@
 
 - Documentation: index.md
 - CSS class: .united-states-social-security-number-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/united-states-social-security-number-input.html
+- HTML headless: lily-design-system-html-headless/components/united-states-social-security-number-input.html
 - Social Security Number format: https://www.ssa.gov/employer/randomization.html

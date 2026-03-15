@@ -40,6 +40,6 @@
 
 - Documentation: index.md
 - CSS class: .image in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/image.html
+- HTML headless: lily-design-system-html-headless/components/image.html
 - WAI Images Tutorial: https://www.w3.org/WAI/tutorials/images/
 - HTML figure element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure

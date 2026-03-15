@@ -53,5 +53,5 @@
 
 - Documentation: index.md
 - CSS class: .calendar-table-data in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/calendar-table-data.html
+- HTML headless: lily-design-system-html-headless/components/calendar-table-data.html
 - WAI-ARIA Grid Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/grid/

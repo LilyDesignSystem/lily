@@ -42,4 +42,4 @@
 
 - Documentation: index.md
 - CSS class: .measurement-unit-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/measurement-unit-view.html
+- HTML headless: lily-design-system-html-headless/components/measurement-unit-view.html

@@ -44,5 +44,5 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-total-sleep-time-as-min-per-day-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-total-sleep-time-as-min-per-day-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-total-sleep-time-as-min-per-day-view.html
 - MDN span element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span

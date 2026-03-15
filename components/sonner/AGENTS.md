@@ -41,6 +41,6 @@
 
 - Documentation: index.md
 - CSS class: .sonner in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/sonner.html
+- HTML headless: lily-design-system-html-headless/components/sonner.html
 - WAI-ARIA Live Regions: https://www.w3.org/TR/wai-aria-1.2/#aria-live
 - WAI-ARIA region role: https://www.w3.org/TR/wai-aria-1.2/#region

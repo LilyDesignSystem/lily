@@ -45,6 +45,6 @@
 
 - Documentation: index.md
 - CSS class: .action-link in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/action-link.html
+- HTML headless: lily-design-system-html-headless/components/action-link.html
 - Inspired by NHS England action link pattern
 - WAI-ARIA link role: https://www.w3.org/TR/wai-aria-1.2/#link

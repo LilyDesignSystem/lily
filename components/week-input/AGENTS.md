@@ -48,5 +48,5 @@
 
 - Documentation: index.md
 - CSS class: .week-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/week-input.html
+- HTML headless: lily-design-system-html-headless/components/week-input.html
 - MDN input type="week": https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/week

@@ -44,6 +44,6 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-body-temperature-as-celcius-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-body-temperature-as-celcius-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-body-temperature-as-celcius-view.html
 - WAI-ARIA img role: https://www.w3.org/WAI/ARIA/apd/roles/img/
 - MedlinePlus - Body Temperature Norms: https://medlineplus.gov/ency/article/001982.htm

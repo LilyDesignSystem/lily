@@ -50,4 +50,4 @@
 
 - Documentation: index.md
 - CSS class: .measurement-system-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/measurement-system-input.html
+- HTML headless: lily-design-system-html-headless/components/measurement-system-input.html

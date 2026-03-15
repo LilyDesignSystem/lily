@@ -44,6 +44,6 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-cholesterol-as-hdl-mmol-per-litre-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-cholesterol-as-hdl-mmol-per-litre-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-cholesterol-as-hdl-mmol-per-litre-view.html
 - WAI-ARIA img role: https://www.w3.org/WAI/ARIA/apd/roles/img/
 - NHS - High Cholesterol: https://www.nhs.uk/conditions/high-cholesterol/

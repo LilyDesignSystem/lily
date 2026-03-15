@@ -44,6 +44,6 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-heart-rate-as-beats-per-minute-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-heart-rate-as-beats-per-minute-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-heart-rate-as-beats-per-minute-view.html
 - WAI-ARIA img role: https://www.w3.org/WAI/ARIA/apd/roles/img/
 - American Heart Association - Target Heart Rates: https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates

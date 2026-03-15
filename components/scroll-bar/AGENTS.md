@@ -57,6 +57,6 @@
 
 - Documentation: index.md
 - CSS class: .scroll-bar in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/scroll-bar.html
+- HTML headless: lily-design-system-html-headless/components/scroll-bar.html
 - WAI-ARIA scrollbar role: https://www.w3.org/TR/wai-aria-1.2/#scrollbar
 - WAI-ARIA Practices - ScrollBar: https://www.w3.org/WAI/ARIA/apd/patterns/scrollbar/

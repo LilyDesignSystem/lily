@@ -41,5 +41,5 @@
 
 - Documentation: index.md
 - CSS class: .gantt-table-body in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/gantt-table-body.html
+- HTML headless: lily-design-system-html-headless/components/gantt-table-body.html
 - WAI-ARIA Grid Pattern: https://www.w3.org/WAI/ARIA/apd/patterns/grid/

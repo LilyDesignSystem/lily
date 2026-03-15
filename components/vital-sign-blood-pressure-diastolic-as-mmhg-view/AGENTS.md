@@ -44,6 +44,6 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-blood-pressure-diastolic-as-mmhg-view in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-blood-pressure-diastolic-as-mmhg-view.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-blood-pressure-diastolic-as-mmhg-view.html
 - WAI-ARIA img role: https://www.w3.org/WAI/ARIA/apd/roles/img/
 - American Heart Association - Understanding Blood Pressure Readings: https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings

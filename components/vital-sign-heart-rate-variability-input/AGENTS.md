@@ -55,7 +55,7 @@
 
 - Documentation: index.md
 - CSS class: .vital-sign-heart-rate-variability-input in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/vital-sign-heart-rate-variability-input.html
+- HTML headless: lily-design-system-html-headless/components/vital-sign-heart-rate-variability-input.html
 - HTML number input: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
 - WAI-ARIA spinbutton role: https://www.w3.org/TR/wai-aria-1.2/#spinbutton
 - Harvard Health - Heart Rate Variability: https://www.health.harvard.edu/blog/heart-rate-variability-new-way-track-well-2017112212789

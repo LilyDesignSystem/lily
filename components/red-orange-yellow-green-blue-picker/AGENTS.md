@@ -52,5 +52,5 @@
 
 - Documentation: index.md
 - CSS class: .red-orange-yellow-green-blue-picker in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/red-orange-yellow-green-blue-picker.html
+- HTML headless: lily-design-system-html-headless/components/red-orange-yellow-green-blue-picker.html
 - Traffic Light Rating System: https://en.wikipedia.org/wiki/Traffic_light_rating_system

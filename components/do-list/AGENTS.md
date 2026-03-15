@@ -45,6 +45,6 @@
 
 - Documentation: index.md
 - CSS class: .do-list in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/do-list.html
+- HTML headless: lily-design-system-html-headless/components/do-list.html
 - MDN ul element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
 - WAI list role: https://www.w3.org/WAI/ARIA/apd/roles/list/

@@ -35,4 +35,4 @@
 
 - Documentation: index.md
 - CSS class: .caption in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/caption.html
+- HTML headless: lily-design-system-html-headless/components/caption.html

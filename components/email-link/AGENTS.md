@@ -41,5 +41,5 @@
 
 - Documentation: index.md
 - CSS class: .email-link in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/email-link.html
+- HTML headless: lily-design-system-html-headless/components/email-link.html
 - MDN `mailto:` links: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#linking_to_an_email_address

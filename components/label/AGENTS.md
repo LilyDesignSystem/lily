@@ -38,6 +38,6 @@
 
 - Documentation: index.md
 - CSS class: .label in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/label.html
+- HTML headless: lily-design-system-html-headless/components/label.html
 - WAI Forms Tutorial - Labels: https://www.w3.org/WAI/tutorials/forms/labels/
 - HTML label element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label

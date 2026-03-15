@@ -54,6 +54,6 @@
 
 - Documentation: index.md
 - CSS class: .splitter in css-style-sheet-template.css
-- HTML headless: lily-html-headless/components/splitter.html
+- HTML headless: lily-design-system-html-headless/components/splitter.html
 - WAI-ARIA Window Splitter Pattern: https://www.w3.org/WAI/ARIA/apg/patterns/windowsplitter/
 - WAI-ARIA Separator Role: https://www.w3.org/TR/wai-aria-1.2/#separator
