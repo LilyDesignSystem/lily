@@ -214,6 +214,7 @@
 - reset-input = ResetInput = a button input that resets a form to default values <input type="reset">
 - resizable = Resizable = a container that the user can resize by dragging
 - review-date = ReviewDate = a display of a content review date
+- screen-reader-span = ScreenReaderSpan = a visually hidden span of text intended for screen readers to provide more descriptive labels
 - scroll-area = ScrollArea = a scrollable container with custom scrollbar support
 - scroll-bar = ScrollBar = a custom scrollbar element
 - search-input = SearchInput = an input for entering a search query <input type="search">

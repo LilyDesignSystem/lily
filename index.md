@@ -236,6 +236,7 @@ Headless versions if you want to use components with all your own styles:
 - [reset-input](components/reset-input): a button input that resets a form to default values
 - [resizable](components/resizable): a container that the user can resize by dragging
 - [review-date](components/review-date): a display of a content review date
+- [screen-reader-span](components/screen-reader-span): a visually hidden span of text intended for screen readers to provide more descriptive labels
 - [scroll-area](components/scroll-area): a scrollable container with custom scrollbar support
 - [scroll-bar](components/scroll-bar): a custom scrollbar element
 - [search-input](components/search-input): an input for entering a search query
