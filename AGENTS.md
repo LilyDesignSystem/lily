@@ -317,6 +317,7 @@ Files:
 - text-input = TextInput = a single-line text input field <input type="text">
 - textarea = Textarea = a multi-line text input area
 - theme-picker = ThemePicker = a picker for selecting a visual theme
+- theme-picker-button = ThemePickerButton = a picker button for selecting a visual theme
 - theme-select = ThemeSelect = a select dropdown for choosing a theme
 - theme-select-option = ThemeSelectOption = one option in a theme select dropdown
 - theme-view = ThemeView = a read-only display of the current theme

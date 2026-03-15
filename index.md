@@ -284,6 +284,7 @@ Headless versions if you want to use components with all your own styles:
 - [text-input](components/text-input): a single-line text input field
 - [textarea](components/textarea): a multi-line text input area
 - [theme-picker](components/theme-picker): a picker for selecting a visual theme
+- [theme-picker-button](components/theme-picker-button): a picker button for selecting a visual theme
 - [theme-select](components/theme-select): a select dropdown for choosing a theme
 - [theme-select-option](components/theme-select-option): one option in a theme select dropdown
 - [theme-view](components/theme-view): a read-only display of the current theme
