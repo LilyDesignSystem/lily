@@ -105,6 +105,7 @@ Headless versions if you want to use components with all your own styles:
 - [datetime-local-input](components/datetime-local-input): an input for entering a date and time without time zone
 - [details](components/details): a disclosure widget that shows and hides content
 - [dial](components/dial): a rotary dial control for selecting a value
+- [dial-group](components/dial-group): a group of dial components
 - [diff](components/diff): a side-by-side comparison of two items
 - [digital-object-identifier-link](components/digital-object-identifier-link): a permanent hyperlink for a Digital Object Identifier (DOI) to an electronic source
 - [dialog](components/dialog): a modal or non-modal dialog window

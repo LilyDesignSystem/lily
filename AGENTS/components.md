@@ -83,6 +83,7 @@
 - datetime-local-input = DatetimeLocalInput = an input for entering a date and time without time zone <input type="datetime-local">
 - details = Details = a disclosure widget that shows and hides content
 - dial = Dial = a rotary dial control for selecting a value
+- dial-group = DialGroup = a group of dial components
 - diff = Diff = a side-by-side comparison of two items
 - digital-object-identifier-link = DigitalObjectIdentifierLink = a permanent hyperlink for a Digital Object Identifier (DOI) to an electronic source
 - dialog = Dialog = a modal or non-modal dialog window
