@@ -158,6 +158,7 @@ Headless versions if you want to use components with all your own styles:
 - [grail-layout-bottom-footer](components/grail-layout-bottom-footer): grail layout bottom footer full width with tag
 - [hamburger-menu](components/hamburger-menu): a toggle button that opens a mobile navigation menu
 - [header](components/header): a page or section header area
+- [hero](components/hero): a large box or image with a title and description
 - [hidden-input](components/hidden-input): a hidden input for including data in form submission
 - [hint](components/hint): hint text providing guidance for a form field
 - [hover-card](components/hover-card): a card that appears on hover over a trigger element

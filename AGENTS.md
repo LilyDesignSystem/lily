@@ -191,6 +191,7 @@ Files:
 - grail-layout-bottom-footer = GrailLayoutBottomFooter = grail layout bottom footer full width with <footer> tag
 - hamburger-menu = HamburgerMenu = a toggle button that opens a mobile navigation menu
 - header = Header = a page or section header area
+- hero = Hero = a large box or image with a title and description
 - hidden-input = HiddenInput = a hidden input for including data in form submission <input type="hidden">
 - hint = Hint = hint text providing guidance for a form field
 - hover-card = HoverCard = a card that appears on hover over a trigger element
