@@ -1,0 +1,30 @@
+@page "/components"
+@using LilyBlazorWebExamples.Data
+
+<h1>Components</h1>
+<p>284 headless components</p>
+
+<label for="search">Filter components</label>
+<input id="search" type="search" class="search-input" placeholder="Search components..." @bind="search" @bind:event="oninput" />
+
+<p>@filtered.Count() components</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+    @foreach (var c in filtered)
+    {
+        <article class="card" style="padding: var(--nhs-space-4);">
+            <h3><a href="/components/@c.Slug">@c.Name</a></h3>
+            <p>@c.Description</p>
+        </article>
+    }
+</div>
+
+@code {
+    private string search = "";
+
+    private IEnumerable<ComponentInfo> filtered =>
+        ComponentData.Components.Where(c =>
+            c.Name.Contains(search, StringComparison.OrdinalIgnoreCase) ||
+            c.Slug.Contains(search, StringComparison.OrdinalIgnoreCase) ||
+            c.Description.Contains(search, StringComparison.OrdinalIgnoreCase));
+}
