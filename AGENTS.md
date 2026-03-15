@@ -72,6 +72,7 @@ Files:
 - aspect-ratio-container = AspectRatioContainer = a container that maintains a fixed aspect ratio
 - avatar = Avatar = an avatar indicator that shows an avatar image or avatar text
 - avatar-image = AvatarImage = an avatar indicator inside image such as a user photo
+- avatar-group = AvatarGroup = a group of avatar components
 - avatar-text = AvatarText = an avatar indicator inner text such as a user name
 - back-link = BackLink = a navigation link to return to a previous page
 - badge = Badge = a small label for counts, statuses, or categories

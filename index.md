@@ -38,6 +38,7 @@ Headless versions if you want to use components with all your own styles:
 - [aspect-ratio-container](components/aspect-ratio-container): a container that maintains a fixed aspect ratio
 - [avatar](components/avatar): an avatar indicator that shows an avatar image or avatar text
 - [avatar-image](components/avatar-image): an avatar indicator inside image such as a user photo
+- [avatar-group](components/avatar-group): a group of avatar components
 - [avatar-text](components/avatar-text): an avatar indicator inner text such as a user name
 - [back-link](components/back-link): a navigation link to return to a previous page
 - [badge](components/badge): a small label for counts, statuses, or categories
