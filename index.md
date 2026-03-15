@@ -78,6 +78,7 @@ Headless versions if you want to use components with all your own styles:
 - [color-input](components/color-input): an input for selecting a color value
 - [color-picker](components/color-picker): a two-dimensional board for picking colors by hue and saturation
 - [color-picker-button](components/color-picker-button): a button showing a color swatch in a color picker
+- [comment](components/comment): a comment displays user discussions and user feedback
 - [combobox](components/combobox): a text input combined with a dropdown list for filtering options
 - [command](components/command): a command palette for searching and executing actions
 - [contents-nav](components/contents-nav): a navigation landmark for a list of contents
@@ -117,6 +118,7 @@ Headless versions if you want to use components with all your own styles:
 - [emoji-character-picker](components/emoji-character-picker): a picker for browsing and selecting emoji characters
 - [emoji](components/emoji): a single emoji character with accessible name
 - [error-message](components/error-message): an error message associated with a form field
+- [event](components/event): an event component that contains other event-related information
 - [error-summary](components/error-summary): a summary of all validation errors on a form
 - [expander](components/expander): a control that expands to reveal more content
 - [field](components/field): a form field wrapper with label, input, and error message

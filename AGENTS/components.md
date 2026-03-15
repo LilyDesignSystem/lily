@@ -56,6 +56,7 @@
 - color-input = ColorInput = an input for selecting a color value <input type="color">
 - color-picker = ColorPicker = a two-dimensional board for picking colors by hue and saturation
 - color-picker-button = ColorPickerButton = a button showing a color swatch in a color picker
+- comment = Comment = a comment displays user discussions and user feedback
 - combobox = Combobox = a text input combined with a dropdown list for filtering options
 - command = Command = a command palette for searching and executing actions
 - contents-nav = ContentsNav = a contents navigation area
@@ -95,6 +96,7 @@
 - emoji-character-picker = EmojiCharacterPicker = a picker for browsing and selecting emoji characters
 - emoji = Emoji = a single emoji character with accessible name
 - error-message = ErrorMessage = an error message associated with a form field
+- event = Event = an event component that contains other event-related information
 - error-summary = ErrorSummary = a summary of all validation errors on a form
 - expander = Expander = a control that expands to reveal more content
 - field = Field = a form field wrapper with label, input, and error message
@@ -351,6 +353,14 @@
 | table-row  | `<tr>`       | DataTableRow                                     |
 | table-col  | `<th>`       | DataTableCol                                     |
 | table-data | `<td>`       | DataTableData                                    |
+
+## Components for semantic concepts
+
+- person
+- place
+- thing
+- event
+- organization
 
 ## Component name patterns
 
