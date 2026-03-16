@@ -43,6 +43,7 @@ Headless versions if you want to use components with all your own styles:
 - [back-link](components/back-link): a navigation link to return to a previous page
 - [badge](components/badge): a small label for counts, statuses, or categories
 - [banner](components/banner): a prominent message bar across the top of a page
+- [banner-box](components/banner-box): a banner box that is inside a banner component, using flexbox horizontal
 - [beach-ball](components/beach-ball): a decorative animated beach ball element
 - [breadcrumb-nav](components/breadcrumb-nav): a navigation container for breadcrumb trail links
 - [breadcrumb-list](components/breadcrumb-list): an ordered list of breadcrumb navigation items
@@ -102,6 +103,7 @@ Headless versions if you want to use components with all your own styles:
 - [date-field](components/date-field): a structured field for entering date components
 - [date-input](components/date-input): an input for entering a date value
 - [date-range](components/date-range): a display of a start and end date range
+- [date-time-now-input](components/date-time-now-input): an input for entering a date and time and "now" button
 - [datetime-local-input](components/datetime-local-input): an input for entering a date and time without time zone
 - [details](components/details): a disclosure widget that shows and hides content
 - [dial](components/dial): a rotary dial control for selecting a value
@@ -186,7 +188,10 @@ Headless versions if you want to use components with all your own styles:
 - [measurement-system-view](components/measurement-system-view): a read-only display of a measurement system
 - [measurement-unit-input](components/measurement-unit-input): an input for selecting a measurement unit
 - [measurement-unit-view](components/measurement-unit-view): a read-only display of a measurement unit
-- [medical-record-red-box](components/medical-record-red-box): a red highlighted box for critical medical record information
+- [medical-banner](components/medical-banner): a prominent message bar across the top of a page, with medical information
+- [medical-banner-box](components/medical-banner-box): a medical banner box inside a medical-banner, using flexbox horizontal
+- [medical-banner-box-for-danger](components/medical-banner-box-for-danger): a medical record banner box for danger information
+- [medical-banner-box-for-advice](components/medical-banner-box-for-advice): a medical record banner box for advice information
 - [menu](components/menu): a list of actions or options triggered by a button
 - [menu-item](components/menu-item): one item in a menu
 - [menu-bar](components/menu-bar): a horizontal bar of menu triggers
@@ -283,7 +288,9 @@ Headless versions if you want to use components with all your own styles:
 - [tel-input](components/tel-input): an input for entering a telephone number
 - [tel-link](components/tel-link): a tel hyperlink for a telephone number
 - [text-input](components/text-input): a single-line text input field
+- [text-input-with-search](components/text-input-with-search): a single-line text input field with search capability
 - [textarea](components/textarea): a multi-line text input area
+- [text-area-with-character-counter](components/text-area-with-character-counter): a multi-line text area with character counter
 - [theme-picker](components/theme-picker): a picker for selecting a visual theme
 - [theme-picker-button](components/theme-picker-button): a picker button for selecting a visual theme
 - [theme-select](components/theme-select): a select dropdown for choosing a theme
@@ -343,6 +350,8 @@ Headless versions if you want to use components with all your own styles:
 - [vital-sign-vo2-max-as-ml-per-kg-per-minute-input](components/vital-sign-vo2-max-as-ml-per-kg-per-minute-input): number input of one vital sign VO2 max in millilitres per kilogram per minute with integers
 - [vital-sign-waist-circumference-as-cm-view](components/vital-sign-waist-circumference-as-cm-view): number display of one vital sign waist circumference in centimetres with integers
 - [vital-sign-waist-circumference-as-cm-input](components/vital-sign-waist-circumference-as-cm-input): number input of one vital sign waist circumference in centimetres with integers
+- [vital-sign-belly-circumference-as-cm-view](components/vital-sign-belly-circumference-as-cm-view): number display of one vital sign belly circumference in centimetres with integers
+- [vital-sign-belly-circumference-as-cm-input](components/vital-sign-belly-circumference-as-cm-input): number input of one vital sign belly circumference in centimetres with integers
 - [vital-sign-weight-as-kg-view](components/vital-sign-weight-as-kg-view): number display of one vital sign weight in kilograms with integers
 - [vital-sign-weight-as-kg-input](components/vital-sign-weight-as-kg-input): number input of one vital sign weight in kilograms with integers
 - [warning-callout](components/warning-callout): a callout box highlighting a warning message

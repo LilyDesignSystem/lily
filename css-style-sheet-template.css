@@ -404,6 +404,14 @@
 .flair {
 }
 
+/* france-numero-d-identification-au-repertoire-view: a read-only display of a France NIR */
+.france-numero-d-identification-au-repertoire-view {
+}
+
+/* france-numero-d-identification-au-repertoire-input: an input for entering a France NIR */
+.france-numero-d-identification-au-repertoire-input {
+}
+
 /* floating-panel: a panel that floats above page content */
 .floating-panel {
 }

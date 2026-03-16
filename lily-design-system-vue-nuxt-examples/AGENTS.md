@@ -17,7 +17,7 @@
 
 ## Overview
 
-Vue 3 + Nuxt 3 example application demonstrating all 321 components from the Lily Design System headless component library, styled with NHS UK design system colors, typography, spacing, and focus states.
+Vue 3 + Nuxt 3 example application demonstrating all 332 components from the Lily Design System headless component library, styled with NHS UK design system colors, typography, spacing, and focus states.
 
 ### Tech Stack
 
@@ -39,10 +39,10 @@ Vue 3 + Nuxt 3 example application demonstrating all 321 components from the Lil
 ```
 ├── app.vue                     # Root layout
 ├── nuxt.config.ts              # Nuxt configuration
-├── components/                 # 321 headless Vue components
+├── components/                 # 332 headless Vue components
 ├── pages/                      # 13 example pages
 ├── assets/css/nhs.css          # NHS UK design tokens & styles
-├── tests/components/           # 321 component test files
+├── tests/components/           # 332 component test files
 ├── vitest.config.ts            # Vitest configuration
 └── vitest-setup.ts             # Test setup (cleanup)
 ```

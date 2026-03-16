@@ -17,6 +17,7 @@
 - back-link = BackLink = a navigation link to return to a previous page
 - badge = Badge = a small label for counts, statuses, or categories
 - banner = Banner = a prominent message bar across the top of a page
+- banner-box = BannerBox = a banner box that is inside a banner component, using flexbox horizontal
 - beach-ball = BeachBall = a decorative animated beach ball element
 - breadcrumb-nav = BreadcrumbNav = a navigation container for breadcrumb trail links
 - breadcrumb-list = BreadcrumbList = an ordered list of breadcrumb list items
@@ -76,6 +77,7 @@
 - date-field = DateField = a structured field for entering date components
 - date-input = DateInput = an input for entering a date value <input type="date">
 - date-range = DateRange = a display of a start and end date range
+- date-time-now-input = DateTimeNowInput = an input for entering a date and time and "now" button <input type="date"><input type="time"><button type="button">
 - datetime-local-input = DatetimeLocalInput = an input for entering a date and time without time zone <input type="datetime-local">
 - details = Details = a disclosure widget that shows and hides content
 - dial = Dial = a rotary dial control for selecting a value
@@ -102,6 +104,8 @@
 - field = Field = a form field wrapper with label, input, and error message
 - fieldset = Fieldset = a group of related form fields with a legend
 - figure = Figure = a self-contained figure with optional caption
+- france-numero-d-identification-au-repertoire-view = FranceNumeroDIdentificationAuRepertoireView = a read-only display of a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
+- france-numero-d-identification-au-repertoire-input = FranceNumeroDIdentificationAuRepertoireInput = an input for entering a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
 - file-dialog = FileDialog = a dialog for browsing and selecting files
 - file-input = FileInput = an input for selecting files from the file system <input type="file">
 - file-manager = FileManager = a file browser for navigating and managing files
@@ -160,7 +164,10 @@
 - measurement-system-view = MeasurementSystemView = a read-only display of a measurement system
 - measurement-unit-input = MeasurementUnitInput = an input for selecting a measurement unit
 - measurement-unit-view = MeasurementUnitView = a read-only display of a measurement unit
-- medical-record-red-box = MedicalRecordRedBox = a red highlighted box for critical medical record information
+- medical-banner = MedicalBanner = a prominent message bar across the top of a page, with medical information
+- medical-banner-box = MedicalBannerBox = a medical banner box that is inside a medical-banner component, using flexbox horizontal, with medical information
+- medical-banner-box-for-danger = MedicalBannerBoxForDanger = a medical record banner box for danger information e.g. reactions, warnings, alarms, etc.
+- medical-banner-box-for-advice = MedicalBannerBoxForAdvice = a medical record banner box for advice information e.g. contacts, contexts, plans, etc.
 - menu = Menu = a list of actions or options triggered by a button
 - menu-item = MenuItem = one item in a menu
 - menu-bar = MenuBar = a horizontal bar of menu triggers
@@ -257,7 +264,9 @@
 - tel-input = TelInput = an input for entering a telephone number <input type="tel">
 - tel-link = TelLink = a tel hyperlink for a telephone number
 - text-input = TextInput = a single-line text input field <input type="text">
+- text-input-with-search = TextInputWithSearch = a single-line text input field <input type="text"> with search capability
 - textarea = Textarea = a multi-line text input area
+- text-area-with-character-counter = TextAreaWithCharacterCounter = a multi-line text area with a caption below that is a character counter "[number] of [maximum] characters"
 - theme-picker = ThemePicker = a picker for selecting a visual theme
 - theme-picker-button = ThemePickerButton = a picker button for selecting a visual theme
 - theme-select = ThemeSelect = a select dropdown for choosing a theme
@@ -317,6 +326,8 @@
 - vital-sign-vo2-max-as-ml-per-kg-per-minute-input = VitalSignVo2MaxAsMlPerKgPerMinuteInput = number input of one vital sign VO2 max in millilitres per kilogram per minute with integers
 - vital-sign-waist-circumference-as-cm-view = VitalSignWaistCircumferenceAsCmView = number display of one vital sign waist circumference in centimetres with integers
 - vital-sign-waist-circumference-as-cm-input = VitalSignWaistCircumferenceAsCmInput = number input of one vital sign waist circumference in centimetres with integers
+- vital-sign-belly-circumference-as-cm-view = VitalSignBellyCircumferenceAsCmView = number display of one vital sign belly circumference in centimetres with integers
+- vital-sign-belly-circumference-as-cm-input = VitalSignBellyCircumferenceAsCmInput = number input of one vital sign belly circumference in centimetres with integers
 - vital-sign-weight-as-kg-view = VitalSignWeightAsKgView = number display of one vital sign weight in kilograms with integers
 - vital-sign-weight-as-kg-input = VitalSignWeightAsKgInput = number input of one vital sign weight in kilograms with integers
 - warning-callout = WarningCallout = a callout box highlighting a warning message

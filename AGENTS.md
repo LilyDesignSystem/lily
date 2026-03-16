@@ -153,6 +153,8 @@ Files:
 - field = Field = a form field wrapper with label, input, and error message
 - fieldset = Fieldset = a group of related form fields with a legend
 - figure = Figure = a self-contained figure with optional caption
+- france-numero-d-identification-au-repertoire-view = FranceNumeroDIdentificationAuRepertoireView = a read-only display of a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
+- france-numero-d-identification-au-repertoire-input = FranceNumeroDIdentificationAuRepertoireInput = an input for entering a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
 - file-dialog = FileDialog = a dialog for browsing and selecting files
 - file-input = FileInput = an input for selecting files from the file system <input type="file">
 - file-manager = FileManager = a file browser for navigating and managing files

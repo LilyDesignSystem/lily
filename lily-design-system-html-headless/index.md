@@ -1,12 +1,12 @@
 # Lily Design System - HTML Headless
 
-A headless plain HTML component library with 321 components. All components are headless (no built-in styles), fully accessible (WCAG 2.2 AAA), and use vanilla JavaScript for interactivity.
+A headless plain HTML component library with 332 components. All components are headless (no built-in styles), fully accessible (WCAG 2.2 AAA), and use vanilla JavaScript for interactivity.
 
 **Headless** means zero CSS, zero styles, zero opinions about appearance. You provide all styling. Components provide structure, semantics, accessibility, and behavior.
 
 ## Features
 
-- 321 headless HTML components
+- 332 headless HTML components
 - Plain HTML and vanilla JavaScript — no frameworks required
 - WCAG 2.2 AAA accessibility compliance
 - Full keyboard navigation support
@@ -35,6 +35,7 @@ A headless plain HTML component library with 321 components. All components are 
 - **back-link**: a navigation link to return to a previous page
 - **badge**: a small label for counts, statuses, or categories
 - **banner**: a prominent message bar across the top of a page
+- **banner-box**: a banner box that is inside a banner component, using flexbox horizontal
 - **beach-ball**: a decorative animated beach ball element
 - **breadcrumb**:
   - **breadcrumb-nav**: a navigation container for breadcrumb trail links
@@ -98,6 +99,7 @@ A headless plain HTML component library with 321 components. All components are 
 - **date-field**: a structured field for entering date components
 - **date-input**: an input for entering a date value
 - **date-range**: a display of a start and end date range
+- **date-time-now-input**: an input for entering a date and time and "now" button
 - **datetime-local-input**: an input for entering a date and time without time zone
 - **details**: a disclosure widget that shows and hides content
 - **dial**: a rotary dial control for selecting a value
@@ -188,7 +190,10 @@ A headless plain HTML component library with 321 components. All components are 
   - **measurement-system-view**: a read-only display of a measurement system
   - **measurement-unit-input**: an input for selecting a measurement unit
   - **measurement-unit-view**: a read-only display of a measurement unit
-- **medical-record-red-box**: a red highlighted box for critical medical record information
+- **medical-banner**: a prominent message bar across the top of a page, with medical information
+- **medical-banner-box**: a medical banner box inside a medical-banner, using flexbox horizontal
+- **medical-banner-box-for-danger**: a medical record banner box for danger information
+- **medical-banner-box-for-advice**: a medical record banner box for advice information
 - **menu**: a list of actions or options triggered by a button
 - **menu-item**: one item in a menu
 - **menu-bar**: a horizontal bar of menu triggers
@@ -291,7 +296,9 @@ A headless plain HTML component library with 321 components. All components are 
 - **tel-input**: an input for entering a telephone number
 - **tel-link**: a tel: hyperlink for a telephone number
 - **text-input**: a single-line text input field
+- **text-input-with-search**: a single-line text input field with search capability
 - **textarea**: a multi-line text input area
+- **text-area-with-character-counter**: a multi-line text area with character counter
 - **theme-picker**: a picker for selecting a visual theme
 - **theme-picker-button**: a picker button for selecting a visual theme
 - **theme-select**: a select dropdown for choosing a theme
@@ -354,6 +361,8 @@ A headless plain HTML component library with 321 components. All components are 
   - **vital-sign-vo2-max-as-ml-per-kg-per-minute-input**: number input of one vital sign VO2 max in millilitres per kilogram per minute with integers
   - **vital-sign-waist-circumference-as-cm-view**: number display of one vital sign waist circumference in centimetres with integers
   - **vital-sign-waist-circumference-as-cm-input**: number input of one vital sign waist circumference in centimetres with integers
+  - **vital-sign-belly-circumference-as-cm-view**: number display of one vital sign belly circumference in centimetres with integers
+  - **vital-sign-belly-circumference-as-cm-input**: number input of one vital sign belly circumference in centimetres with integers
   - **vital-sign-weight-as-kg-view**: number display of one vital sign weight in kilograms with integers
   - **vital-sign-weight-as-kg-input**: number input of one vital sign weight in kilograms with integers
 - **warning-callout**: a callout box highlighting a warning message

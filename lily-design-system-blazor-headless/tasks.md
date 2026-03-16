@@ -20,7 +20,7 @@
 - [ ] Implement form input components (TextInput, EmailInput, CheckboxInput, etc.)
 - [ ] Implement link components (ActionLink, BackLink, SkipLink, etc.)
 - [ ] Implement view components (PostalCodeView, MeasurementInstanceView, etc.)
-- [ ] Implement vital sign components (15 view + 15 input pairs)
+- [ ] Implement vital sign components (16 view + 16 input pairs)
 - [ ] Implement table families (5 families x 7 parts each)
 - [ ] Implement navigation patterns (AccordionNav, BreadcrumbNav, etc.)
 - [ ] Implement list patterns (CheckList, SummaryList, TaskList, etc.)

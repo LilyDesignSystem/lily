@@ -12,7 +12,7 @@
 - [x] Implement form input components (text-input, email-input, checkbox-input, etc.)
 - [x] Implement link components (action-link, back-link, skip-link, etc.)
 - [x] Implement view components (postal-code-view, measurement views, etc.)
-- [x] Implement vital sign components (15 view + 15 input pairs)
+- [x] Implement vital sign components (16 view + 16 input pairs)
 - [x] Implement table families (5 families x 7 parts each)
 - [x] Implement navigation patterns (accordion-nav, breadcrumb-nav, etc.)
 - [x] Implement list patterns (check-list, summary-list, task-list, etc.)
@@ -26,7 +26,7 @@
 
 ## In Progress
 
-- [ ] Implement remaining components to reach canonical 321
+- [ ] Implement remaining components to reach canonical 332
 - [ ] Cross-check all components vs canonical list in AGENTS.md
 
 ## Backlog

@@ -19,7 +19,7 @@ Implement all headless components using Plain HTML + vanilla JavaScript. Every c
    a. Static wrappers (badge, banner, card, panel, alert, etc.)
    b. Form inputs (text-input, email-input, checkbox-input, etc.)
    c. Links and views (action-link, postal-code-view, etc.)
-   d. Vital sign views and inputs (15 pairs)
+   d. Vital sign views and inputs (16 pairs)
    e. Table families (table, data-table, calendar-table, etc.)
    f. Navigation patterns (accordion-nav, breadcrumb-nav, etc.)
    g. List patterns (check-list, summary-list, task-list, etc.)
@@ -34,7 +34,7 @@ Implement all headless components using Plain HTML + vanilla JavaScript. Every c
 
 ## Acceptance Criteria
 
-- [x] All 321 components from the canonical list are implemented
+- [x] All 332 components from the canonical list are implemented
 - [x] Each component file follows the architecture in AGENTS.md
 - [ ] Every component has a corresponding test file
 - [ ] All tests pass: `npx wdio run wdio.conf.js`

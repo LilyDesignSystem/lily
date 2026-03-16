@@ -21,7 +21,7 @@ Implement all headless components using Blazor Razor components with .NET 10. Ev
    a. Static wrappers (Badge, Banner, Card, Panel, Alert, etc.)
    b. Form inputs (TextInput, EmailInput, CheckboxInput, etc.)
    c. Links and views (ActionLink, PostalCodeView, etc.)
-   d. Vital sign views and inputs (15 pairs)
+   d. Vital sign views and inputs (16 pairs)
    e. Table families (Table, DataTable, CalendarTable, etc.)
    f. Navigation patterns (AccordionNav, BreadcrumbNav, etc.)
    g. List patterns (CheckList, SummaryList, TaskList, etc.)
@@ -36,7 +36,7 @@ Implement all headless components using Blazor Razor components with .NET 10. Ev
 
 ## Acceptance Criteria
 
-- [ ] All 321 components from the canonical list are implemented
+- [ ] All 332 components from the canonical list are implemented
 - [ ] Each component file follows the architecture in AGENTS.md
 - [ ] Every component has a corresponding test file
 - [ ] All tests pass: `dotnet test`
