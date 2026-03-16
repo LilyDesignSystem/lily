@@ -928,6 +928,10 @@
 .text-input {
 }
 
+/* text-input-with-search: a single-line text input field with search capability */
+.text-input-with-search {
+}
+
 /* textarea: a multi-line text input area */
 .textarea {
 }
