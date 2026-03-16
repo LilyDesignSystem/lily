@@ -149,6 +149,8 @@ Files:
 - error-message = ErrorMessage = an error message associated with a form field
 - event = Event = an event component that contains other event-related information
 - error-summary = ErrorSummary = a summary of all validation errors on a form
+- espana-tarjeta-sanitaria-individual-view = EspanaTarjetaSanitariaIndividualView = a read-only display of a España Tarjeta Sanitaria Individual (TSI) unique national healthcare identifier
+- espana-tarjeta-sanitaria-individual-input = EspanaTarjetaSanitariaIndividualInput = an input for entering a España Tarjeta Sanitaria Individual (TSI) unique national healthcare identifier
 - expander = Expander = a control that expands to reveal more content
 - field = Field = a form field wrapper with label, input, and error message
 - fieldset = Fieldset = a group of related form fields with a legend

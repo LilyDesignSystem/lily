@@ -100,12 +100,14 @@
 - error-message = ErrorMessage = an error message associated with a form field
 - event = Event = an event component that contains other event-related information
 - error-summary = ErrorSummary = a summary of all validation errors on a form
+- espana-tarjeta-sanitaria-individual-input = EspanaTarjetaSanitariaIndividualInput = an input for entering a España Tarjeta Sanitaria Individual (TSI) unique national healthcare identifier
+- espana-tarjeta-sanitaria-individual-view = EspanaTarjetaSanitariaIndividualView = a read-only display of a España Tarjeta Sanitaria Individual (TSI) unique national healthcare identifier
 - expander = Expander = a control that expands to reveal more content
 - field = Field = a form field wrapper with label, input, and error message
 - fieldset = Fieldset = a group of related form fields with a legend
 - figure = Figure = a self-contained figure with optional caption
-- france-numero-d-identification-au-repertoire-view = FranceNumeroDIdentificationAuRepertoireView = a read-only display of a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
 - france-numero-d-identification-au-repertoire-input = FranceNumeroDIdentificationAuRepertoireInput = an input for entering a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
+- france-numero-d-identification-au-repertoire-view = FranceNumeroDIdentificationAuRepertoireView = a read-only display of a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
 - file-dialog = FileDialog = a dialog for browsing and selecting files
 - file-input = FileInput = an input for selecting files from the file system <input type="file">
 - file-manager = FileManager = a file browser for navigating and managing files
@@ -508,3 +510,10 @@ These components represent semantic concepts and contain related information: Ev
   </VitalSignBloodPressureDiastolicAsMmhgInput>
 </VitalSignGroupInput>
 ```
+
+## Unique national healthcare identifiers
+
+- espana-tarjeta-sanitaria-individual EspanaTarjetaSanitariaIndividual
+- france-numero-d-identification-au-repertoire FranceNumeroDIdentificationAuRepertoire
+- united-kingdom-national-health-service-number UnitedKingdomNationalHealthServiceNumber
+- united-states-social-security-number UnitedStatesSocialSecurityNumber

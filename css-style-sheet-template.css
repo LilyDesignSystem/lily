@@ -344,6 +344,14 @@
 .error-summary {
 }
 
+/* espana-tarjeta-sanitaria-individual-view: a read-only display of a España TSI */
+.espana-tarjeta-sanitaria-individual-view {
+}
+
+/* espana-tarjeta-sanitaria-individual-input: an input for entering a España TSI */
+.espana-tarjeta-sanitaria-individual-input {
+}
+
 /* expander: a control that expands to reveal more content */
 .expander {
 }

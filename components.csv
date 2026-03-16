@@ -98,6 +98,8 @@ emoji	Emoji	a single emoji character with accessible name
 error-message	ErrorMessage	an error message associated with a form field
 event	Event	an event component that contains other event-related information
 error-summary	ErrorSummary	a summary of all validation errors on a form
+espana-tarjeta-sanitaria-individual-input	EspanaTarjetaSanitariaIndividualInput	an input for entering an España Tarjeta Sanitaria Individual (TSI) unique national healthcare identifier
+espana-tarjeta-sanitaria-individual-view	EspanaTarjetaSanitariaIndividualView	a read-only display of an España Tarjeta Sanitaria Individual (TSI) unique national healthcare identifier
 expander	Expander	a control that expands to reveal more content
 field	Field	a form field wrapper with label, input, and error message
 fieldset	Fieldset	a group of related form fields with a legend
@@ -117,8 +119,8 @@ floating-panel	FloatingPanel	a panel that floats above page content
 footer	Footer	a page or section footer area
 footnote	Footnote	a footnote reference and content element
 form	Form	a form element for collecting and submitting user data
-france-numero-d-identification-au-repertoire-view	FranceNumeroDIdentificationAuRepertoireView	a read-only display of a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
 france-numero-d-identification-au-repertoire-input	FranceNumeroDIdentificationAuRepertoireInput	an input for entering a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
+france-numero-d-identification-au-repertoire-view	FranceNumeroDIdentificationAuRepertoireView	a read-only display of a France numéro d'identification au répertoire (NIR) unique national healthcare identifier
 gantt-table	GanttTable	a Gantt chart table interactive grid for planning schedule visualization <table>
 gantt-table-head	GanttTableHead	a Gantt chart table interactive grid thead for planning schedule visualization <thead>
 gantt-table-body	GanttTableBody	a Gantt chart table interactive grid tbody for planning schedule visualization <tbody>
