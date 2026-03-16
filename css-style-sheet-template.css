@@ -584,8 +584,20 @@
 .measurement-unit-view {
 }
 
-/* medical-record-red-box: a red highlighted box for critical medical record information */
-.medical-record-red-box {
+/* medical-banner: a prominent message bar across the top of a page, with medical information */
+.medical-banner {
+}
+
+/* medical-banner-box: a medical banner box inside a medical-banner, using flexbox horizontal */
+.medical-banner-box {
+}
+
+/* medical-banner-box-for-danger: a medical record banner box for danger information */
+.medical-banner-box-for-danger {
+}
+
+/* medical-banner-box-for-advice: a medical record banner box for advice information */
+.medical-banner-box-for-advice {
 }
 
 /* menu: a list of actions or options triggered by a button */

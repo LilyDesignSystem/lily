@@ -211,7 +211,10 @@ Files:
 - measurement-system-view = MeasurementSystemView = a read-only display of a measurement system
 - measurement-unit-input = MeasurementUnitInput = an input for selecting a measurement unit
 - measurement-unit-view = MeasurementUnitView = a read-only display of a measurement unit
-- medical-record-red-box = MedicalRecordRedBox = a red highlighted box for critical medical record information
+- medical-banner = MedicalBanner = a prominent message bar across the top of a page, with medical information
+- medical-banner-box = MedicalBannerBox = a medical banner box that is inside a medical-banner component, using flexbox horizontal, with medical information
+- medical-banner-box-for-danger = MedicalBannerBoxForDanger = a medical record banner box for danger information e.g. reactions, warnings, alarms, etc.
+- medical-banner-box-for-advice = MedicalBannerBoxForAdvice = a medical record banner box for advice information e.g. contacts, contexts, plans, etc.
 - menu = Menu = a list of actions or options triggered by a button
 - menu-item = MenuItem = one item in a menu
 - menu-bar = MenuBar = a horizontal bar of menu triggers
