@@ -64,6 +64,10 @@
 .banner {
 }
 
+/* banner-box: a banner box that is inside a banner component, using flexbox horizontal */
+.banner-box {
+}
+
 /* beach-ball: a decorative animated beach ball element */
 .beach-ball {
 }

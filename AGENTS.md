@@ -66,6 +66,7 @@ Files:
 - back-link = BackLink = a navigation link to return to a previous page
 - badge = Badge = a small label for counts, statuses, or categories
 - banner = Banner = a prominent message bar across the top of a page
+- banner-box = BannerBox = a banner box that is inside a banner component, using flexbox horizontal
 - beach-ball = BeachBall = a decorative animated beach ball element
 - breadcrumb-nav = BreadcrumbNav = a navigation container for breadcrumb trail links
 - breadcrumb-list = BreadcrumbList = an ordered list of breadcrumb navigation items
