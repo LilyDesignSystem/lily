@@ -149,6 +149,8 @@
 - information-callout = InformationCallout = a callout box highlighting informational content
 - input = Input = a generic HTML input element
 - inset-text = InsetText = indented text to distinguish it from surrounding content
+- ireland-individual-health-identifier-view = IrelandIndividualHealthIdentifierView = a read-only display of Ireland Individual Health Identifier (IHI) unique national healthcare identifier
+- ireland-individual-health-identifier-input = IrelandIndividualHealthIdentifierInput = an input for entering Ireland Individual Health Identifier (IHI) unique national healthcare identifier
 - kanban-table = KanbanTable = a kanban board table interactive grid for organizing items by status <table>
 - kanban-table-head = KanbanTableHead = a kanban board table interactive grid thead for organizing items by status <thead>
 - kanban-table-body = KanbanTableBody = a kanban board table interactive grid tbody for organizing items by status <tbody>
@@ -515,5 +517,6 @@ These components represent semantic concepts and contain related information: Ev
 
 - espana-tarjeta-sanitaria-individual EspanaTarjetaSanitariaIndividual
 - france-numero-d-identification-au-repertoire FranceNumeroDIdentificationAuRepertoire
+- ireland-individual-health-identifier IrelandIndividualHealthIdentifier
 - united-kingdom-national-health-service-number UnitedKingdomNationalHealthServiceNumber
 - united-states-social-security-number UnitedStatesSocialSecurityNumber

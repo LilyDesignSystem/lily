@@ -536,6 +536,14 @@
 .inset-text {
 }
 
+/* ireland-individual-health-identifier-view: a read-only display of Ireland IHI */
+.ireland-individual-health-identifier-view {
+}
+
+/* ireland-individual-health-identifier-input: an input for entering Ireland IHI */
+.ireland-individual-health-identifier-input {
+}
+
 /* kanban-table: a kanban board table interactive grid for organizing items by status */
 .kanban-table {
 }
