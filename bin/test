@@ -46,6 +46,26 @@ done
 
 ## Test implementations
 "$top/bin/list-implementations" | 
-while read -r implementation; do 
-    ai_exists_or_err "$implementation"
+while read -r implementation; do
+    dir="$top/$implementation"
+    ai_exists_or_err "$dir"
+    file_exists_or_err "$dir/.git-subtree-push"
+done
+
+## Test implementations that use our preferred JavaScript + TypeScript + Vite + PNPM
+"$top/bin/list-implementations" | grep \(react-next-examples\|svelte-sveltekit-examples\|vue-nuxt-examples\) |
+while read -r implementation; do
+    dir="$top/$implementation"
+    file_exists_or_err "$dir/package.json"
+    file_exists_or_err "$dir/pnpm-lock.yaml"
+    file_exists_or_err "$dir/tsconfig.json"
+    file_exists_or_err "$dir/vite.config.ts"
+    file_exists_or_err "$dir/vitest-setup.js"
+done
+
+## Test implementations that use Svelte SvelteKit examples
+"$top/bin/list-implementations" | grep svelte-sveltekit-examples |
+while read -r implementation; do
+    dir="$top/$implementation"
+    directory_exists_or_err "$dir/src/lib/components"
 done
