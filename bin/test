@@ -39,7 +39,7 @@ repo_setup_exists_or_err "$top"
 ai_exists_or_err "$top"
 
 ## Test components
-"$top/bin/list-components" | 
+"$top/bin/list-components-as-kebab-case" | 
 while read -r component; do
     ai_exists_or_err "$top/components/$component"
 done
@@ -68,4 +68,11 @@ done
 while read -r implementation; do
     dir="$top/$implementation"
     directory_exists_or_err "$dir/src/lib/components"
+    "$top/bin/list-components"
+    find "$top/$implementation/src/lib/components" -depth 1 -exec basename {} \; | sort |
+    while read -r component; do
+        component_title_case=$(echo "$component" | case)
+        file_exists_or_err "$dir/$component_title_case.svelte"
+        file_exists_or_err "$dir/$component_title_case.svelte"
+    done
 done

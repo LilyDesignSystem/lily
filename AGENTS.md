@@ -20,8 +20,9 @@
 
 ## Tools
 
-- [list-components](bin/list-components)
-- [list-components](bin/list-implementations)
+- [list-components-as-kebab-case](bin/list-components-as-kebab-case): List components as kebab case
+- [list-components-as-title-case](bin/list-components-as-title-case): List components as title case
+- [list-implementations](bin/list-implementations)
 - [test](bin/test)
 - [sync](bin/sync)
 - [git-subtree-push](bin/git-subtree-push)
@@ -46,6 +47,13 @@ Files:
 - CLAUDE.md
 - plan.md
 - tasks.md
+
+## Inspirations
+
+- [ONSdigital design system](https://github.com/ONSdigital/design-system)
+- [DaisyUI](https://daisyui.com/)
+- [Reuters graphics components](https://github.com/reuters-graphics/graphics-components)
+- [Shadcn](https://ui.shadcn.com/)
 
 ## Components
 

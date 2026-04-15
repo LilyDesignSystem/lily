@@ -296,7 +296,7 @@ tree-menu	TreeMenu	a hierarchical tree menu with expandable branches
 tree-nav	TreeNav	a hierarchical navigation with expandable branches
 tree-list	TreeList	a hierarchical list with nested expandable items
 tree-list-item	TreeListItem	one item in a tree navigation list
-tree-link	TreeLink one link in the tree
+tree-link	TreeLink	one link in the tree
 united-kingdom-national-health-service-number-input	UnitedKingdomNationalHealthServiceNumberInput	an input for entering a UK NHS number
 united-kingdom-national-health-service-number-view	UnitedKingdomNationalHealthServiceNumberView	a read-only display of a UK NHS number
 united-states-social-security-number-input	UnitedStatesSocialSecurityNumberInput	an input for entering a US Social Security number

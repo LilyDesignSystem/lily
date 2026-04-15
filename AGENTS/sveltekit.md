@@ -9,6 +9,7 @@
 - Vite
 - Paraglide-JS for internationalization
 - pnpm NOT npm
+- [Storybook](https://storybook.js.org/)
 
 ## Component conventions
 

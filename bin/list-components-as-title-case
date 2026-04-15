@@ -1,0 +1,6 @@
+#!/bin/sh
+set -euf
+
+top="$(git rev-parse --show-toplevel)"
+
+awk -F\t '{print $2}' "$top/components.csv"

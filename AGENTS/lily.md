@@ -37,7 +37,8 @@ NHS UK Design System References:
 
 Tools:
 
-- [list-components](bin/list-components): List components
+- [list-components-as-kebab-case](bin/list-components-as-kebab-case): List components as kebab case
+- [list-components-as-title-case](bin/list-components-as-title-case): List components as title case
 - [list-implementation-basenames](bin/list-implementation-basenames): List implementation basenames
 - [list-implementation-paths](bin/list-implementation-paths): List implementation paths
 - [test](bin/test): Test everything
@@ -53,6 +54,16 @@ Color palette:
 - success #16a34a
 - page background #f9fafb
 - card background #ffffff
+
+## For each subproject implements
+
+- index.md
+- README.md symlink to index.md
+- AGENTS directory with agent files
+- AGENTS.md file with AI coding help
+- CLAUDE.md that loads AGENTS.md
+- .git-subtree-push
+- etc.
 
 ## For each component directory
 
