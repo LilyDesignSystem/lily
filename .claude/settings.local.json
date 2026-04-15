@@ -81,7 +81,12 @@
       "Bash(wc:*)",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(for d:*)",
+      "Bash(do)",
+      "Read(//Users/jph/git/lilydesignsystem/lily-design-system/components/**)",
+      "Bash(done)",
+      "Bash(cd:*)"
     ]
   }
 }

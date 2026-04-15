@@ -36,6 +36,10 @@
 .angle-slider-range-input {
 }
 
+/* article-layout: a top-level article wrapper that sets CSS custom properties for content column widths */
+.article-layout {
+}
+
 /* aspect-ratio-container: a container that maintains a fixed aspect ratio */
 .aspect-ratio-container {
 }
@@ -72,6 +76,10 @@
 .beach-ball {
 }
 
+/* body-text: a rendered text block within a content width container */
+.body-text {
+}
+
 /* breadcrumb-nav: a navigation container for breadcrumb trail links */
 .breadcrumb-nav {
 }
@@ -94,6 +102,10 @@
 
 /* button-input: an input element of type button for form actions */
 .button-input {
+}
+
+/* byline: an author attribution with publish and update timestamps */
+.byline {
 }
 
 /* calendar-table: a calendar table interactive grid for managing dates, days, etc. */
@@ -194,6 +206,10 @@
 
 /* combobox: a text input combined with a dropdown list for filtering options */
 .combobox {
+}
+
+/* content-block: a content width constraint container with named column widths */
+.content-block {
 }
 
 /* command: a command palette for searching and executing actions */
@@ -336,6 +352,10 @@
 .emoji {
 }
 
+/* end-notes: a section of titled endnote items at the end of an article */
+.end-notes {
+}
+
 /* error-message: an error message associated with a form field */
 .error-message {
 }
@@ -358,6 +378,10 @@
 
 /* field: a form field wrapper with label, input, and error message */
 .field {
+}
+
+/* feature-photo: a responsive photo with lazy loading and alt text validation */
+.feature-photo {
 }
 
 /* fieldset: a group of related form fields with a legend */
@@ -436,6 +460,10 @@
 .form {
 }
 
+/* framer: a container for framed content display with decorative border */
+.framer {
+}
+
 /* gantt-table: a Gantt chart table interactive grid for planning schedule visualization */
 .gantt-table {
 }
@@ -488,6 +516,10 @@
 .grail-layout-bottom-footer {
 }
 
+/* graphic-block: a wrapper for charts and graphics with title, description, notes, and ARIA description */
+.graphic-block {
+}
+
 /* hamburger-menu: a toggle button that opens a mobile navigation menu */
 .hamburger-menu {
 }
@@ -496,12 +528,28 @@
 .header {
 }
 
+/* headline: a page headline with heading, subtitle, and byline area */
+.headline {
+}
+
+/* hero: a large box or image with a title and description */
+.hero {
+}
+
+/* hero-headline: a full-bleed hero section with headline overlaid on media */
+.hero-headline {
+}
+
 /* hidden-input: a hidden input for including data in form submission */
 .hidden-input {
 }
 
 /* hint: hint text providing guidance for a form field */
 .hint {
+}
+
+/* horizontal-scroller: a horizontally scrollable content container */
+.horizontal-scroller {
 }
 
 /* hover-card: a card that appears on hover over a trigger element */
@@ -696,6 +744,10 @@
 .pagination-list-item {
 }
 
+/* padding-reset: a container that resets padding inside fluid-width containers */
+.padding-reset {
+}
+
 /* pagination-link: one pagination link in the trail */
 .pagination-link {
 }
@@ -710,6 +762,10 @@
 
 /* password-input-or-text-input-div: an input for entering a password or text with show/hide toggle */
 .password-input-or-text-input-div {
+}
+
+/* photo-pack: a collection of photos displayed together as a group */
+.photo-pack {
 }
 
 /* pin-input-div: a series of single-digit inputs for entering a PIN or OTP code */
@@ -802,6 +858,18 @@
 
 /* scroll-bar: a custom scrollbar element */
 .scroll-bar {
+}
+
+/* scroller: a scrollytelling container with step-based foreground and background composition */
+.scroller {
+}
+
+/* scroller-base: a low-level scroll position tracking primitive for scrollytelling */
+.scroller-base {
+}
+
+/* scroller-video: a video-driven scrollytelling component with frame-by-frame scrubbing */
+.scroller-video {
 }
 
 /* search-input: an input for entering a search query */
@@ -976,6 +1044,10 @@
 .theme-picker {
 }
 
+/* theme-provider: a container that applies CSS custom properties from a theme object */
+.theme-provider {
+}
+
 /* theme-select: a select dropdown for choosing a theme */
 .theme-select {
 }
@@ -1002,6 +1074,10 @@
 
 /* timeline-list-item: one event in a timeline list */
 .timeline-list-item {
+}
+
+/* tile-map: a tile cartogram map with configurable layers for geographic data visualization */
+.tile-map {
 }
 
 /* timer: a countdown or elapsed time display */
@@ -1082,6 +1158,14 @@
 
 /* url-input: an input for entering a URL */
 .url-input {
+}
+
+/* video-player: a video player with play-in-view behavior and custom controls */
+.video-player {
+}
+
+/* visible: an IntersectionObserver wrapper that exposes element visibility state */
+.visible {
 }
 
 /* vital-sign-blood-pressure-diastolic-as-mmhg-view: number display of one vital sign blood pressure diastolic with integers */

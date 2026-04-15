@@ -68,11 +68,9 @@ done
 while read -r implementation; do
     dir="$top/$implementation"
     directory_exists_or_err "$dir/src/lib/components"
-    "$top/bin/list-components"
-    find "$top/$implementation/src/lib/components" -depth 1 -exec basename {} \; | sort |
+    "$top/bin/list-components-as-title-case" | 
     while read -r component; do
-        component_title_case=$(echo "$component" | case)
         file_exists_or_err "$dir/$component_title_case.svelte"
-        file_exists_or_err "$dir/$component_title_case.svelte"
+        file_exists_or_err "$dir/$component_title_case.stories.svelte"
     done
 done
